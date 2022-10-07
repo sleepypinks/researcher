@@ -46,9 +46,30 @@ Questions for 'Live Typing'  | Post-Interaction Questions:
 -----|-------
 What is your first impression of 'live typing'? | What would motivate you to use this in your personal lives?
 If you could change one thing about the design, what would it be?|  What was the one thing you disliked the most?
-Please point to any items you would like to add to the screen. | Is there anything you would like to share?
+Please point to any items you would like to change on the screen. | Is there anything you would like to share?
 
 *****
 
 ## Key Observations
+
+• Users were shocked which was recorded through interjections of 'wow', 'oh my', 'geez'.
+• Live Typing made users feel reluctant. Some users did not write anything as they felt hesitant sharing their thoughts on the go.
+• Whereas, live typing also helped some users communicate more. Users felt the interface helped them be more expressive. These observations were recorded by asking interview questions.
+
+Some of the summarized answers for most important patterns are as follows:
+
+1. What is your first impression of 'live typing'? 
+• Some users felt the interface was communicative.
+• While others felt it hindred their communication.
+• Some users felt it was privacy invasive while other felt it helped them bond.
+
+2. If you could change one thing about the interface, what would it be?
+• Most users felt annoyed seeing the home screen and so many input parameters.
+• Most users wanted a logging in option with Facebook, Google or any third party apps.
+
+3. Please point to any items you would like to change on the screen.
+• For the home screen, users did not feel comfortable typing this many parameters. On the live typing screen, users were annoyed seeing "You connected" messages and wanted a green icon to see who was present.
+• Some users disliked the interface as a chat room, and preffered 1:1 conversations.
+
+
 
