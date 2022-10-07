@@ -25,22 +25,14 @@ Warm-up Questions | Questions for 'Home Screen'
 -----|-------
 What messaging apps do you use?  | What is the first thing you would do on this screen? 
 Which app do you use the most? | Show me the things you would do before you press 'Log In'. 
-<> | What do you think will happen when you press 'Log In'? 
-<> | What are the things you would want to change on this screen? 
+What do you like about these apps? | What do you think will happen when you press 'Log In'? 
+What do you like about these apps? | What are the things you would want to change on this screen? 
 
-
-### Questions for 'Live Typing' 
-> What is your first impression of 'live typing'?
-> What are you thinking as you see the other person's messages?
-> How do you feel knowing the other person is reading your message as you are writing?
-> If you could change one thing about the design, what would it be?
-> Please point to any items you would like to add to the screen.
-> Please point to any items you would not like to see on the screen.
-
-### Post-Interaction Questions:
-> What would motivate you to use this in your personal lives?
-> What would keep you from using this chat room?
-> What was the one thing you liked the most?
-> What was the one thing you disliked the most?
-> How likely would you use these interfaces again? If not likely, why?
-> Is there anything you would like to share?
+Questions for 'Live Typing'  | Post-Interaction Questions:
+-----|-------
+What is your first impression of 'live typing'? | What would motivate you to use this in your personal lives?
+What are you thinking as you see the other person's messages?| What would keep you from using this chat room?
+How do you feel knowing the other person is reading your message as you are writing?| What was the one thing you liked the most?
+If you could change one thing about the design, what would it be?|  What was the one thing you disliked the most?
+Please point to any items you would like to add to the screen. |  How likely would you use these interfaces again? If not likely, why?
+Please point to any items you would not like to see on the screen.|  Is there anything you would like to share?
