@@ -24,9 +24,11 @@ But does the said design increase the actual co-presence? To observe user's inte
 *****
 ### Home Screen
 ![Drawing-2.sketchpad.jpeg](Drawing-2.sketchpad.jpeg)
-*Live Typing's homepage. Once the user clicks 'Log In', it takes them to the next screen i.e. the chat room.*
 
 *****
+
+*Live Typing's homepage. Once the user clicks 'Log In', it takes them to the next screen i.e. the chat room.*
+
 
 Warm-up Questions | Questions for 'Home Screen'
 -----|-------
@@ -38,6 +40,9 @@ What do you like about these apps? | What do you think will happen when you pres
 
 ### Live Typing Screen
 ![Drawing-1.sketchpad.jpeg](Drawing-1.sketchpad.jpeg)
+
+*****
+
 *Live Typing's screen sketched out. User can see the other person's response in real time. The interface is trying to increase user's perceived social presence in written communication (messaging here) but displaying what the other person is typing 'on the go'.*
 
 *****
