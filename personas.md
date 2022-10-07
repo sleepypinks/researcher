@@ -21,15 +21,12 @@ Messages are annoying, frustrating and stressful. Those ... while we wait for ou
 
 But does the said design increase the actual co-presence? To observe user's interaction with the system, we interviewed people and ask the following questions: 
 
-### Warm-up Questions
-> What messaging apps do you use?
-> Which app do you use the most?
-
-### Questions for 'Home Screen' 
-> What is the first thing you would do on this screen?
-> Show me the things you would do before you press 'Log In'.
-> What do you think will happen when you press 'Log In'?
-> What are the things you would want to change on this screen?
+Warm-up Questions | Questions for 'Home Screen'
+-----|-------
+What messaging apps do you use?  | What is the first thing you would do on this screen? 
+Which app do you use the most? | Show me the things you would do before you press 'Log In'. 
+<> | What do you think will happen when you press 'Log In'? 
+<> | What are the things you would want to change on this screen? 
 
 
 ### Questions for 'Live Typing' 
