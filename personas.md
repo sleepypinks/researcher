@@ -10,3 +10,6 @@ This project steps in a user's shoes on what goes on when users try to use a cha
 Messages are annoying, frustrating and stressful. Those ... while we wait for our friend's message can induce stress, anxiety and apprehension. To better cater to these pesky feelings, a new chatroom is designed where users can see the message "on the go".
 
 <img src="Drawing-2.sketchpad.jpeg">
+
+
+[How can we re-design messaging interfaces to increase perceived co-presence?]()
