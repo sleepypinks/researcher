@@ -7,11 +7,12 @@ This project steps in a user's shoes on what goes on when users try to use a cha
 
 <!---## Research Question --->
 
-## Overview 
+## Overview: Live Typing Interface
 
 Messages are annoying, frustrating and stressful. Those ... while we wait for our friend's message can induce stress, anxiety and apprehension. To better cater to these pesky feelings, a new chatroom is designed where users can see the message "on the go".
 
-<img src="Drawing-2.sketchpad.jpeg">
+![Drawing-2.sketchpad.jpeg](Drawing-2.sketchpad.jpeg)
+*Live Typing's homepage. Once the user clicks 'Log In', it takes them to the next screen i.e. the chat room.*
 
 *****
 [Interface Objective: Increasing user's perceived co-presence.](http://chatatbrownhci.herokuapp.com)
@@ -29,6 +30,9 @@ What do you like about these apps? | What do you think will happen when you pres
 What do you like about these apps? | What are the things you would want to change on this screen? 
 
 <img src="Drawing-1.sketchpad.jpeg">
+
+![Drawing-1.sketchpad.jpeg](Drawing-1.sketchpad.jpeg)
+*Live Typing's screen sketched out. User can see the other person's response in real time. The interface is trying to increase user's perceived social presence in written communication (messaging here) but displaying what the other person is typing 'on the go'.*
 
 Questions for 'Live Typing'  | Post-Interaction Questions:
 -----|-------
