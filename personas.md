@@ -32,6 +32,9 @@ What do you like about these apps? | What do you think will happen when you pres
 ![Drawing-1.sketchpad.jpeg](Drawing-1.sketchpad.jpeg)
 *Live Typing's screen sketched out. User can see the other person's response in real time. The interface is trying to increase user's perceived social presence in written communication (messaging here) but displaying what the other person is typing 'on the go'.*
 
+
+
+
 Questions for 'Live Typing'  | Post-Interaction Questions:
 -----|-------
 What is your first impression of 'live typing'? | What would motivate you to use this in your personal lives?
