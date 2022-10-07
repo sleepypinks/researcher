@@ -21,4 +21,4 @@ nav:
  #- name: "Resume"
  #  link: "resume.pdf"
  - name: "Personas and Storyboarding"
-   link: "personas"
+   link: "/personas/"
