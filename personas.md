@@ -27,7 +27,7 @@ But does the said design increase the actual co-presence? To observe user's inte
 
 *****
 
-*Live Typing's homepage. Once the user clicks 'Log In', it takes them to the next screen i.e. the chat room.*
+*Figure 1: Live Typing's homepage. Once the user clicks 'Log In', it takes them to the next screen i.e. the chat room.*
 
 
 Warm-up Questions | Questions for 'Home Screen'
@@ -43,9 +43,8 @@ What do you like about these apps? | What do you think will happen when you pres
 
 *****
 
-*Live Typing's screen sketched out. User can see the other person's response in real time. The interface is trying to increase user's perceived social presence in written communication (messaging here) but displaying what the other person is typing 'on the go'.*
+*Figure 2: Live Typing's screen sketched out. User can see the other person's response in real time. The interface is trying to increase user's perceived social presence in written communication (messaging here) but displaying what the other person is typing 'on the go'.*
 
-*****
 
 Questions for 'Live Typing'  | Post-Interaction Questions:
 -----|-------
@@ -63,27 +62,37 @@ Please point to any items you would like to change on the screen. | Is there any
 
 • Whereas, live typing also helped some users communicate more. Users felt the interface helped them be more expressive. These observations were recorded by asking interview questions.
 
-Some of the summarized answers for most important patterns are as follows:
+### Some of the summarized answers for most important patterns are as follows:
 
-1. What is your first impression of 'live typing'? 
+#### 1. What is your first impression of 'live typing'? 
 
 • Some users felt the interface was communicative.
 
 • While others felt it hindred their communication.
 
 • Some users felt it was privacy invasive while other felt it helped them bond.
+*****
 
-2. If you could change one thing about the interface, what would it be?
+####2. If you could change one thing about the interface, what would it be?
 
 • Most users felt annoyed seeing the home screen and so many input parameters.
 
 • Most users wanted a logging in option with Facebook, Google or any third party apps.
+*****
 
-3. Please point to any items you would like to change on the screen.
+####3. Please point to any items you would like to change on the screen.
 
 • For the home screen, users did not feel comfortable typing this many parameters. On the live typing screen, users were annoyed seeing "You connected" messages and wanted a green icon to see who was present.
 
 • Some users disliked the interface as a chat room, and preffered 1:1 conversations.
 
+*****
 
+### Personas && Empathy Maps
+
+#### Persona 1: Waiting Wonka
+<img class="profile-picture" src="sherlock.jpg">
+
+
+#### Persona 1: Privacy Aware Pamella 
 
