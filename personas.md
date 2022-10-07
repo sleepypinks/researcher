@@ -29,7 +29,6 @@ Which app do you use the most? | Show me the things you would do before you pres
 What do you like about these apps? | What do you think will happen when you press 'Log In'? 
 What do you like about these apps? | What are the things you would want to change on this screen? 
 
-<img src="Drawing-1.sketchpad.jpeg">
 
 ![Drawing-1.sketchpad.jpeg](Drawing-1.sketchpad.jpeg)
 *Live Typing's screen sketched out. User can see the other person's response in real time. The interface is trying to increase user's perceived social presence in written communication (messaging here) but displaying what the other person is typing 'on the go'.*
