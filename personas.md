@@ -28,7 +28,9 @@ But does the said design increase the actual co-presence? To observe user's inte
 ### Questions for 'Home Screen' 
 1. What is the first thing you would do on this screen?
 2. Show me the things you would do before you press 'Log In'.
-3. What are the things you would want to change on this screen?
+3. What do you think will happen when you press 'Log In'?
+4. What are the things you would want to change on this screen?
+
 
 ### Questions for 'Live Typing' 
 1. What is your first impression of 'live typing'?
