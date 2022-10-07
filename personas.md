@@ -28,6 +28,8 @@ Which app do you use the most? | Show me the things you would do before you pres
 What do you like about these apps? | What do you think will happen when you press 'Log In'? 
 What do you like about these apps? | What are the things you would want to change on this screen? 
 
+<img src="Drawing-1.sketchpad.jpeg">
+
 Questions for 'Live Typing'  | Post-Interaction Questions:
 -----|-------
 What is your first impression of 'live typing'? | What would motivate you to use this in your personal lives?
