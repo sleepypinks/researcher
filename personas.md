@@ -62,6 +62,8 @@ Please point to any items you would like to change on the screen. | Is there any
 
 • Whereas, live typing also helped some users communicate more. Users felt the interface helped them be more expressive. These observations were recorded by asking interview questions.
 
+*****
+
 ### Some of the summarized answers for most important patterns are as follows:
 
 #### 1. What is your first impression of 'live typing'? 
@@ -73,14 +75,14 @@ Please point to any items you would like to change on the screen. | Is there any
 • Some users felt it was privacy invasive while other felt it helped them bond.
 *****
 
-####2. If you could change one thing about the interface, what would it be?
+#### 2. If you could change one thing about the interface, what would it be?
 
 • Most users felt annoyed seeing the home screen and so many input parameters.
 
 • Most users wanted a logging in option with Facebook, Google or any third party apps.
 *****
 
-####3. Please point to any items you would like to change on the screen.
+#### 3. Please point to any items you would like to change on the screen.
 
 • For the home screen, users did not feel comfortable typing this many parameters. On the live typing screen, users were annoyed seeing "You connected" messages and wanted a green icon to see who was present.
 
