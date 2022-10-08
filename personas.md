@@ -7,7 +7,7 @@ This project steps in a user's shoes on what goes on when users try to use a cha
 
 <!---## Research Question --->
 
-## Overview: Live Typing Interface
+# Overview: Live Typing Interface
 
 Messages are annoying, frustrating and stressful. Those ... while we wait for our friend's message can induce stress, anxiety and apprehension. To better cater to these pesky feelings, a new chatroom is designed where users can see the message "on the go".
 
@@ -17,13 +17,13 @@ Messages are annoying, frustrating and stressful. Those ... while we wait for ou
 
 ****
 
-## Interaction
+# Live Typing: What's it all about?
 
 But does the said design increase the actual co-presence? To observe user's interaction with the system, we interviewed people and ask the following questions: 
 
 ****
 
-### Home Screen
+## Home Screen
 ![Drawing-2.sketchpad.jpeg](images/Drawing-2.sketchpad.jpeg)
 
 *****
@@ -39,7 +39,7 @@ What do you like about these apps? | What do you think will happen when you pres
 
 *****
 
-### Live Typing Screen
+## Live Typing Screen
 ![Drawing-1.sketchpad.jpeg](images/Drawing-1.sketchpad.jpeg)
 
 *****
@@ -54,6 +54,8 @@ If you could change one thing about the design, what would it be?|  What was the
 Please point to any items you would like to change on the screen. | Is there anything you would like to share?
 
 ****
+
+# Interactions: How's it going for people?
 
 ## Key Observations
 
@@ -99,11 +101,11 @@ Please point to any items you would like to change on the screen. | Is there any
 
 ****
 
-### Personas && Empathy Maps
+# Personas and Empathy Maps
 
 ****
 
-#### Persona 1: Waiting Wyona
+## Persona 1: Waiting Wyona
 
 ![/map2.jpg](images//map2.jpg)
 
@@ -111,7 +113,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 *****
 
-#### Persona 2: Privacy Aware Pamella
+## Persona 2: Privacy Aware Pamella
 
 ![/map1.jpg](images//map1.jpg)
 
@@ -119,7 +121,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 *****
 
-### Storyboarding
+# Storyboarding
 
 Let's see the journey of Waiting Wyona. How does her everyday look like while she tries to stay connected with her partner and friends?
 
