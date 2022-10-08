@@ -15,13 +15,14 @@ Messages are annoying, frustrating and stressful. Those ... while we wait for ou
 
 [Interface Objective: Increasing user's perceived co-presence.](http://chatatbrownhci.herokuapp.com)
 
-*****
+****
 
 ## Interaction
 
 But does the said design increase the actual co-presence? To observe user's interaction with the system, we interviewed people and ask the following questions: 
 
-*****
+****
+
 ### Home Screen
 ![Drawing-2.sketchpad.jpeg](images/Drawing-2.sketchpad.jpeg)
 
@@ -52,7 +53,7 @@ What is your first impression of 'live typing'? | What would motivate you to use
 If you could change one thing about the design, what would it be?|  What was the one thing you disliked the most?
 Please point to any items you would like to change on the screen. | Is there anything you would like to share?
 
-*****
+****
 
 ## Key Observations
 
@@ -64,7 +65,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 ![confuse2.png](images/confuse2.png)
 
-*****
+****
 
 ### Some of the summarized answers for most important patterns are as follows:
 
@@ -76,7 +77,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 • Some users felt it was privacy invasive while other felt it helped them bond.
 
-*****
+****
 
 #### 2. If you could change one thing about the interface, what would it be?
 
@@ -84,7 +85,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 • Most users wanted a logging in option with Facebook, Google or any third party apps.
 
-*****
+****
 
 #### 3. Please point to any items you would like to change on the screen.
 
@@ -94,19 +95,23 @@ Please point to any items you would like to change on the screen. | Is there any
 
 <!--- ![confuse1.png](images/confuse1.png) --->
 
-*****
+****
 
 ### Personas && Empathy Maps
 
-#### Persona 1: Waiting Wyona: 
+****
 
+#### Persona 1: Waiting Wyona
 
 ![/map2.jpg](images//map2.jpg)
+*Figure 4: Waiting Wyona is a graduate student and is in a long distance relationship. She uses online communication to stay in touch with her partner and her family.*
 
 *****
 
-#### Persona 2: Privacy Aware Pamella: 
+#### Persona 2: Privacy Aware Pamella
 
 ![/map1.jpg](images//map1.jpg)
+
+*Figure 5: Privacy Aware Pamella is a mother of two who is the head of Human Factors department at Apple. She takes privacy very seriously and does not allow any gadegts at home.*
 
 *****
