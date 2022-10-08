@@ -92,7 +92,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 • Some users disliked the interface as a chat room, and preffered 1:1 conversations.
 
-![confuse1.png](images/confuse1.png)
+<!--- ![confuse1.png](images/confuse1.png) --->
 
 *****
 
