@@ -23,7 +23,7 @@ But does the said design increase the actual co-presence? To observe user's inte
 
 *****
 ### Home Screen
-![Drawing-2.sketchpad.jpeg](Drawing-2.sketchpad.jpeg)
+![Drawing-2.sketchpad.jpeg](images/Drawing-2.sketchpad.jpeg)
 
 *****
 
@@ -39,7 +39,7 @@ What do you like about these apps? | What do you think will happen when you pres
 *****
 
 ### Live Typing Screen
-![Drawing-1.sketchpad.jpeg](Drawing-1.sketchpad.jpeg)
+![Drawing-1.sketchpad.jpeg](images/Drawing-1.sketchpad.jpeg)
 
 *****
 
@@ -62,7 +62,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 • Whereas, live typing also helped some users communicate more. Users felt the interface helped them be more expressive. These observations were recorded by asking interview questions.
 
-![confuse2.png](confuse2.png)
+![confuse2.png](images/confuse2.png)
 
 *****
 
@@ -92,7 +92,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 • Some users disliked the interface as a chat room, and preffered 1:1 conversations.
 
-![confuse1.png](confuse1.png)
+![confuse1.png](images/confuse1.png)
 
 *****
 
@@ -101,7 +101,7 @@ Please point to any items you would like to change on the screen. | Is there any
 #### Persona 1: Waiting Wyona: 
 Wyona is a graduate student and is in a long distance relationship. She uses texts to stay in touch with her partner but hates waiting while her partner is typing a response. 
 
-<img class="profile-picture" src="persona1.png">
+<img class="profile-picture" src="images/persona1.png">
 
 Thinks | Feels | Says | Does
 -------|-------|-------|-------
@@ -111,7 +111,7 @@ Thinks | Feels | Says | Does
 #### Persona 2: Privacy Aware Pamella: 
 Privacy Aware Pamella is a mother of two who is the head of Human Factors department at Apple. She takes privacy very seriously and does not allow any gadegts at home.
 
-<img class="profile-picture" src="persona2.png">
+<img class="profile-picture" src="images/persona2.png">
 
 Thinks | Feels | Says | Does
 -------|-------|-------|-------
