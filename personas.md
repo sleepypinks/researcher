@@ -73,6 +73,7 @@ Please point to any items you would like to change on the screen. | Is there any
 • While others felt it hindred their communication.
 
 • Some users felt it was privacy invasive while other felt it helped them bond.
+
 *****
 
 #### 2. If you could change one thing about the interface, what would it be?
@@ -80,6 +81,7 @@ Please point to any items you would like to change on the screen. | Is there any
 • Most users felt annoyed seeing the home screen and so many input parameters.
 
 • Most users wanted a logging in option with Facebook, Google or any third party apps.
+
 *****
 
 #### 3. Please point to any items you would like to change on the screen.
@@ -96,6 +98,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 <img class="profile-picture" src="persona1.png">
 
+*****
 
 #### Persona 2: Privacy Aware Pamella: Privacy Aware Pamella is a mother of two who is the head of Human Factors department at Apple. She takes privacy very seriously and does not allow any gadegts at home.
 <img class="profile-picture" src="persona2.png">
