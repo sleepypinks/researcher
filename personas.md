@@ -100,7 +100,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 #### Persona 1: Waiting Wyona: 
 
-![empathymap1.jpg](images/empathymap1.jpg)
+![/emapthymap1.jpg](images//emapthymap1.jpg)
 
 *****
 
