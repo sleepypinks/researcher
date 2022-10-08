@@ -65,6 +65,8 @@ Please point to any items you would like to change on the screen. | Is there any
 
 ![confuse2.png](images/confuse2.png)
 
+*Figure 3: User's state while interacting with an interface (Pictures from Adobe Stock).*
+
 ****
 
 ### Some of the summarized answers for most important patterns are as follows:
@@ -116,3 +118,9 @@ Please point to any items you would like to change on the screen. | Is there any
 *Figure 5: Privacy Aware Pamella is a mother of two who is the head of Human Factors department at Apple. She takes privacy very seriously and does not allow any gadegts at home.*
 
 *****
+
+### Storyboarding
+
+Let's see the journey of Waiting Wyona. How does her everyday look like while she tries to stay connected with her partner and friends?
+
+![/Drawing-5.sketchpad.jpeg](images//Drawing-5.sketchpad.jpeg)
