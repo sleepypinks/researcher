@@ -100,16 +100,13 @@ Please point to any items you would like to change on the screen. | Is there any
 
 #### Persona 1: Waiting Wyona: 
 
-![/emapthymap1.jpg](images//emapthymap1.jpg)
+
+![/map2.jpg](images//map2.jpg)
 
 *****
 
 #### Persona 2: Privacy Aware Pamella: 
-Privacy Aware Pamella is a mother of two who is the head of Human Factors department at Apple. She takes privacy very seriously and does not allow any gadegts at home.
 
-<img class="profile-picture" src="images/persona2.png">
+![/map1.jpg](images//map1.jpg)
 
-Thinks | Feels | Says | Does
--------|-------|-------|-------
-a | b | c | d
 *****
