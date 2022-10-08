@@ -94,8 +94,8 @@ Please point to any items you would like to change on the screen. | Is there any
 
 #### Persona 1: Waiting Wyona: Wyona is a graduate student and is in a long distance relationship. She uses texts to stay in touch with her partner but hates waiting while her partner is typing a response. 
 
-<img class="profile-picture" src="persona1.jpg">
+<img class="profile-picture" src="persona1.png">
 
 
 #### Persona 2: Privacy Aware Pamella: Privacy Aware Pamella is a mother of two who is the head of Human Factors department at Apple. She takes privacy very seriously and does not allow any gadegts at home.
-<img class="profile-picture" src="persona2.jpg">
+<img class="profile-picture" src="persona2.png">
