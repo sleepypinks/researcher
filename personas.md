@@ -99,16 +99,8 @@ Please point to any items you would like to change on the screen. | Is there any
 ### Personas && Empathy Maps
 
 #### Persona 1: Waiting Wyona: 
-Wyona is a graduate student and is in a long distance relationship. She uses texts to stay in touch with her partner but hates waiting while her partner is typing a response. 
 
-<img class="profile-picture" src="images/persona1.png">
-
-*****
-
-Thinks | Feels | Says | Does
-------|------|------|-------
-"What is he typing for so long?" | Frustrated while waiting for texts | "I feel we're disconnected"  | Forgets to reply
-
+![empathymap1.jpg](images/empathymap1.jpg)
 
 *****
 
