@@ -31,7 +31,7 @@ But does the said design increase the actual co-presence? To observe user's inte
 
 
 Warm-up Questions | Questions for 'Home Screen'
------|-------
+-------|-------
 What messaging apps do you use?  | What is the first thing you would do on this screen? 
 Which app do you use the most? | Show me the things you would do before you press 'Log In'. 
 What do you like about these apps? | What do you think will happen when you press 'Log In'? 
@@ -47,7 +47,7 @@ What do you like about these apps? | What do you think will happen when you pres
 
 
 Questions for 'Live Typing'  | Post-Interaction Questions:
------|-------
+-------|-------
 What is your first impression of 'live typing'? | What would motivate you to use this in your personal lives?
 If you could change one thing about the design, what would it be?|  What was the one thing you disliked the most?
 Please point to any items you would like to change on the screen. | Is there anything you would like to share?
@@ -61,6 +61,8 @@ Please point to any items you would like to change on the screen. | Is there any
 • Live Typing made users feel reluctant. Some users did not write anything as they felt hesitant sharing their thoughts on the go.
 
 • Whereas, live typing also helped some users communicate more. Users felt the interface helped them be more expressive. These observations were recorded by asking interview questions.
+
+![confuse2.png](confuse2.png)
 
 *****
 
@@ -90,6 +92,8 @@ Please point to any items you would like to change on the screen. | Is there any
 
 • Some users disliked the interface as a chat room, and preffered 1:1 conversations.
 
+![confuse1.png](confuse1.png)
+
 *****
 
 ### Personas && Empathy Maps
@@ -99,8 +103,15 @@ Wyona is a graduate student and is in a long distance relationship. She uses tex
 
 <img class="profile-picture" src="persona1.png">
 
+Thinks | Feels | Says | Does
+-------|-------|-------|-------
+
 *****
 
 #### Persona 2: Privacy Aware Pamella: 
 Privacy Aware Pamella is a mother of two who is the head of Human Factors department at Apple. She takes privacy very seriously and does not allow any gadegts at home.
+
 <img class="profile-picture" src="persona2.png">
+
+Thinks | Feels | Says | Does
+-------|-------|-------|-------
