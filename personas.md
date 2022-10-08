@@ -103,8 +103,12 @@ Wyona is a graduate student and is in a long distance relationship. She uses tex
 
 <img class="profile-picture" src="images/persona1.png">
 
+*****
+
 Thinks | Feels | Says | Does
--------|-------|-------|-------
+------|------|------|-------
+"What is he typing for so long?" | Frustrated while waiting for texts | "I feel we're disconnected"  | Forgets to reply
+
 
 *****
 
@@ -115,3 +119,5 @@ Privacy Aware Pamella is a mother of two who is the head of Human Factors depart
 
 Thinks | Feels | Says | Does
 -------|-------|-------|-------
+a | b | c | d
+*****
