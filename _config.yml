@@ -22,3 +22,5 @@ nav:
  #  link: "resume.pdf"
  - name: "Personas and Storyboarding"
    link: "personas"
+ - name: "Responsive Redesign"
+   link: "redesign"
