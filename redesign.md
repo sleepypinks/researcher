@@ -8,6 +8,6 @@ Messages are annoying, frustrating and stressful. Those ... while we wait for ou
 
 But, wait a second. That sign up page is not the best based on HCI's usability and accessibility standards. This page does not work for visually impaired, people with low vision, and probably does not even for an average user as well. That dark color combinations, hmm. It also is not informative and memorable. The title says "Welcome to Brown HCI Research Study" - that's vague and anyone coming back to it would not remember what the study or interface was about.
 
-![/map2.jpg](images//brownhcistudy.svg)
+![/Screenshot for Live Typing](images//livetypingss1.jpeg)
 
 ****
