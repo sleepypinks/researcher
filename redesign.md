@@ -11,3 +11,8 @@ But, wait a second. That sign up page is not the best based on HCI's usability a
 ![/Screenshot for Live Typing](images//livetypingss1.jpeg)
 
 ****
+
+# Usability Problems
+
+_Excuse me, what did you say about my website?_ Angry Amy... is angry. She heard us talking about her website and has questions why we think its problematic. This is understandable, so let's walk Amy through some of the issues with the webpage.
+
