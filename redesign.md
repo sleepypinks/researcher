@@ -25,3 +25,25 @@ _Excuse me, what did you say about my website?_ Angry Amy... is angry. She heard
 • [WAIVE]() report for the website detects no error but notifies that manual testing is required.
 
 ![/Screenshot for Waive Report](images//waive_report.jpeg)
+
+# Low-fidelity Wireframes
+
+_I think I understand your point. But now what?_ Amy Angry has agreed that although the **actual website serves it purpose and is media-responsive**, it still lacks navigational components and proper description for a friendly user experience. The next thing, in our journey, is to create some sketches, also called lo-fidelity prototypes and show Amy what can the redesign website look like and how does [the new design resolve the issues in the current webpage](). Below we have sketched how we can redesign the Log In page for [Live Typing](chatatbrownhci.herokuapp.com).
+
+![desktop.jpeg](images/desktop.jpeg)
+
+*****
+
+*Figure 1: Live Typing's log in page redesigned for dektop.*
+
+*****
+
+_But my users don't access my website ONLY from their laptops_. We heard that, Amy, are some prototypes for different screen sizes, especially tablet and mobile.
+
+![desktop.jpeg](images/tablet/mobile.jpeg)
+
+*****
+
+*Figure 2: Live Typing's log in page redesigned for tablet and mobile.*
+
+*****
