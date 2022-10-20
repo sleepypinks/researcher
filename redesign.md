@@ -44,6 +44,14 @@ _But my users don't access my website ONLY from their laptops_. We heard that, A
 
 *****
 
-*Figure 2: Live Typing's log in page redesigned for tablet and mobile.*
+*Figure 2: Live Typing's log in page redesigned for tablet.*
+
+*****
+
+![mobile.jpeg](images/mobile.jpeg)
+
+*****
+
+*Figure 2: Live Typing's log in page redesigned for mobile.*
 
 *****
