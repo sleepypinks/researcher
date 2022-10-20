@@ -48,7 +48,7 @@ _But my users don't access my website ONLY from their laptops_. We heard that, A
 
 *****
 
-![mobile.jpeg](images/mobile.jpeg)
+![mobile.jpeg](images/mobile.png)
 
 *****
 
