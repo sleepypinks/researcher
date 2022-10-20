@@ -40,7 +40,7 @@ _I think I understand your point. But now what?_ Amy Angry has agreed that altho
 
 _But my users don't access my website ONLY from their laptops_. We heard that, Amy, are some prototypes for different screen sizes, especially tablet and mobile.
 
-![desktop.jpeg](images/tablet/mobile.jpeg)
+![tablet.jpeg](images/tablet.jpeg)
 
 *****
 
