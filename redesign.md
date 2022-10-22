@@ -97,7 +97,7 @@ Next, we adjust our css style to accomodate the tablet view.
 
 Lastly, we remove some elements to give a compact design for mobile-users.
 
-![hifitablet.jpeg](images/hifitablet.jpeg)
+![hifitablet.jpeg](images/hifimobile.jpeg)
 
 *****
 
