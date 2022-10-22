@@ -69,3 +69,18 @@ Angry Amy is impressed. She has asked us to [conceptualise these wireframes](). 
 *Figure 4: Live Typing UI/UX Style Guide.*
 
 *****
+
+# Hi-Fidelity Prototype
+
+Our Angry Amy has agreed to the visual style! She likes the contrasting theme (which was inspired by [Honk](). However, Amy is nor programmer, and does not know the CSS and HTML building blocks. Here we present the hi-fidelity prototypes for Amy and explain how we have redesigned our website. The website is currently a tad different but still [captures all the important elements] to address our usability issues!
+
+
+First, we present the hi-fidelity prototypes for the desktop. [The code is attached with each explanation. Please note that this code will not change for tablet and mobile view.]
+
+![hifidekstop.jpeg](images/hifidekstop.jpeg)
+
+*****
+
+*Figure 5: Hi-fidelity prototype for Live Typing's Desktop View.*
+
+*****
