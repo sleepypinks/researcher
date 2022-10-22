@@ -22,7 +22,9 @@ _Excuse me, what did you say about my website?_ Angry Amy... is angry. She heard
 
 • [Efficiency](https://sleepypinks.github.io/redesign): Built on the point above, the web page holds good that it does not distract and serves for only log in purposes, but is **not designed efficiently** for _first time users_ or _someone who forgot their credentials_. Users might do trial and errors for extended period of time which could have been saved by having `Sign Up` or `Forgotten Credentials` options!
 
-• [WAIVE]() report for the website detects no error but notifies that manual testing is required.
+• [WAIVE]() report for the website detects no error but notifies that manual testing is required. This is a great insight into how a website might not have any errors and pass these "autonated" tests, but a manual check is always required. The website only has one element (form) and hence, therefore, it's hard to assess these errors through WAIVE report.
+
+As explained above, I manually tested the website with a friend who has visual impairment and it was hard for her to assess the different form elements. The color scheme did not sit well with her, as visual impairment is of different types, and an automatic test like this can not catch all the errors. 
 
 ![/Screenshot for Waive Report](images//waive_report.jpeg)
 
@@ -52,6 +54,18 @@ _But my users don't access my website ONLY from their laptops_. We heard that, A
 
 *****
 
-*Figure 2: Live Typing's log in page redesigned for mobile.*
+*Figure 3: Live Typing's log in page redesigned for mobile.*
+
+*****
+
+# Visual Style Guides
+
+Angry Amy is impressed. She has asked us to [conceptualise these wireframes](). She is confused about how we can make sure a user has consistent, coherent experience navigating her site without losing its functionality. Here, we present a style design guideline for Amy to materialise the concepts we have presented to her so far.
+
+![styleguide.jpeg](images/styleguide.jpeg)
+
+*****
+
+*Figure 4: Live Typing UI/UX Style Guide.*
 
 *****
