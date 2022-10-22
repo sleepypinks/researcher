@@ -77,10 +77,32 @@ Our Angry Amy has agreed to the visual style! She likes the contrasting theme (w
 
 First, we present the hi-fidelity prototypes for the desktop. [The code is attached with each explanation. Please note that this code will not change for tablet and mobile view.]
 
-![hifidekstop.jpeg](images/hifidekstop.jpeg)
+![hifidekstop.jpeg](images/hifidesktop.jpeg)
 
 *****
 
 *Figure 5: Hi-fidelity prototype for Live Typing's Desktop View.*
 
 *****
+
+Next, we adjust our css style to accomodate the tablet view.
+
+![hifitablet.jpeg](images/hifitablet.jpeg)
+
+*****
+
+*Figure 6: Hi-fidelity prototype for Live Typing's Tablet View.*
+
+*****
+
+Lastly, we remove some elements to give a compact design for mobile-users.
+
+![hifitablet.jpeg](images/hifitablet.jpeg)
+
+*****
+
+*Figure 7: Hi-fidelity prototype for Live Typing's Mobile View.*
+
+*****
+
+Amy Angry requests access to the complete website. She wants to check for responsiveness herself. Well, [here you go](https://chatappforuiux.herokuapp.com/).
