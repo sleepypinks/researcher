@@ -20,3 +20,17 @@ After planning Koko's functionalities, the next thing, in our journey, is to cre
 *Figure 1: Low fi prototypes for Koko.*
 
 *****
+
+# Hi-Fidelity Prototype
+
+Next, we present the hi fidelity prototypes for Koko. 
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FN2ycjeVqyMIx6EkeQkv1e4%2FIterative-Design%253A-Koko%3Fnode-id%3D232%253A34" allowfullscreen></iframe>
+
+[Click here for an interactive demo](https://www.figma.com/file/N2ycjeVqyMIx6EkeQkv1e4/Iterative-Design%3A-Koko?node-id=232%3A34)
+
+*****
+
+*Figure 2: Hi-fi prototypes for Koko.*
+
+*****
