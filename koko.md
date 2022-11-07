@@ -33,4 +33,4 @@ Next, we present the hi fidelity prototypes for Koko.
 
 *Figure 2: Hi-fi prototypes for Koko.*
 
-*****
+***** 
