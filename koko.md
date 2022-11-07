@@ -34,7 +34,7 @@ Next, we present the hi fidelity prototypes for Koko. In this stage, we decided 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FN2ycjeVqyMIx6EkeQkv1e4%2FIterative-Design%253A-Koko%3Fnode-id%3D232%253A34" allowfullscreen></iframe>
 
-[Click here for an interactive demo](https://www.figma.com/file/N2ycjeVqyMIx6EkeQkv1e4/Iterative-Design%3A-Koko?node-id=232%3A34)
+[Click here for an interactive demo](https://www.figma.com/proto/N2ycjeVqyMIx6EkeQkv1e4/Iterative-Design%3A-Koko?node-id=232%3A35&scaling=min-zoom&page-id=232%3A34&starting-point-node-id=232%3A43&show-proto-sidebar=1)
 
 *Figure 3: Hi-fi prototypes for Koko.*
 
@@ -46,6 +46,6 @@ After the design team has iterated over the mockup internally, the hi-fi prototy
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FN2ycjeVqyMIx6EkeQkv1e4%2FIterative-Design%253A-Koko%3Fnode-id%3D323%253A109" allowfullscreen></iframe>
 
-[Click here for an interactive demo](https://www.figma.com/file/N2ycjeVqyMIx6EkeQkv1e4/Iterative-Design%3A-Koko?node-id=323%3A109)
+[Click here for an interactive demo](https://www.figma.com/proto/N2ycjeVqyMIx6EkeQkv1e4/Iterative-Design%3A-Koko?node-id=323%3A123&scaling=min-zoom&page-id=323%3A109&starting-point-node-id=323%3A123&show-proto-sidebar=1)
 
 *Figure 4: Hi-fi prototypes for Koko after incorporating user feedback.*
