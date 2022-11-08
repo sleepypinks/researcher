@@ -58,17 +58,19 @@ After incorporating feedback from our stakeholders and an industry guest (Hannah
 
 `Imagine you are stressed out and you're in a bad mood. Your task is to use the provided therapy activities in this app to relieve stress, redirect negative energy, and chat with someone. Please think aloud as you use the app to perform the tasks, so we can better understand your thought process when navigating the site. Please note that this is not an actual app, but an interactive mockup made on prototyping software. Some links do not work, and that is expected. Just talk through as if you would have clicked on them.`
 
+![/peer_support](images//peersupport.jpeg)
+
 ## Testing Instructions
 
-* From the home page, tap **"Explore your Feelings"** [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* On the Explore Your Feelings page, tap **"Stressed"** [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* When given activity options, tap **"Try Coloring"** [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* From the home page, tap [Explore your Feelings]() [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* On the Explore Your Feelings page, tap [Stressed]() [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* When given activity options, tap [Try Coloring]() [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 * This mock-up page is not functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 * This mock-up page is not functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* Navigate to the **"Emotional Support Animal"** page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* Navigate to the [Emotional Support Animal]() page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 * Tap the screen and follow the directions to feed the cat sushi. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 * Tap the screen and follow the directions to feed the cat sushi. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* Navigate to the **"Talk to Someone"** page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* Navigate to the [Talk to Someone]() page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 * This page is not fully functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 
 ## Questions after Task Completion
