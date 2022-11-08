@@ -49,3 +49,34 @@ After the design team has iterated over the mockup internally, the hi-fi prototy
 [Click here for an interactive demo](https://www.figma.com/proto/N2ycjeVqyMIx6EkeQkv1e4/Iterative-Design%3A-Koko?node-id=323%3A123&scaling=min-zoom&page-id=323%3A109&starting-point-node-id=323%3A123&show-proto-sidebar=1)
 
 *Figure 4: Hi-fi prototypes for Koko after incorporating user feedback.*
+
+***** 
+
+# User Testing
+
+After incorporating feedback from our stakeholders and an industry guest (Hannah), we ran our own usability tests through a remote user testing service called [UserTesting](https://www.usertesting.com/) using our newly created interactive hi-fi prototypes informed by feedback. We presented users woth the following scenario:
+
+`Imagine you are stressed out and you're in a bad mood. Your task is to use the provided therapy activities in this app to relieve stress, redirect negative energy, and chat with someone. Please think aloud as you use the app to perform the tasks, so we can better understand your thought process when navigating the site. Please note that this is not an actual app, but an interactive mockup made on prototyping software. Some links do not work, and that is expected. Just talk through as if you would have clicked on them.`
+
+## Testing Instructions
+
+* From the home page, tap **"Explore your Feelings"** [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* On the Explore Your Feelings page, tap **"Stressed"** [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* When given activity options, tap **"Try Coloring"** [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* This mock-up page is not functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* This mock-up page is not functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* Navigate to the **"Emotional Support Animal"** page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* Tap the screen and follow the directions to feed the cat sushi. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* Tap the screen and follow the directions to feed the cat sushi. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* Navigate to the **"Talk to Someone"** page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+* This page is not fully functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+
+## Questions after Task Completion
+
+1. What frustrated you most about this site?
+2. How would you improve this site?
+3. What did you like about the site?
+4. How likely are you to recommend this site to a friend or colleague [0=Not at all likely, and 10=Very likely]?
+
+
+
