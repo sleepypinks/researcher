@@ -123,7 +123,7 @@ Task Instructions: users were asked to navigate to the “Emotional support anim
 
 ***** 
 
-[Task set 4: Talk with someone]()
+[**Task set 4: Talk with someone**]()
 
 Task Instructions:  users were asked to navigate to the “Talk with someone” section and describe verbally how they would interact with its functionalities.
 
