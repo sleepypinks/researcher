@@ -60,7 +60,7 @@ After incorporating feedback from our stakeholders and an industry guest (Hannah
 
 ![/peer_support](images//peersupport.jpeg)
 
-## Testing Instructions
+[**Testing Instructions**]()
 
 * From the home page, tap [Explore your Feelings]() [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 * On the Explore Your Feelings page, tap [Stressed]() [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
@@ -73,12 +73,61 @@ After incorporating feedback from our stakeholders and an industry guest (Hannah
 * Navigate to the [Talk to Someone]() page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 * This page is not fully functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 
-## Questions after Task Completion
+[**Questions after Task Completion**]()
 
 1. What frustrated you most about this site?
 2. How would you improve this site?
 3. What did you like about the site?
 4. How likely are you to recommend this site to a friend or colleague [0=Not at all likely, and 10=Very likely]?
 
+***** 
+
+# User Testing Results & Analysis
+
+[**Task set 1: Explore feelings**]()
+
+Task Instructions: Users were asked to navigate to the “Explore your feelings” section from the homepage and click “Stressed” to receive activity recommendations.
+
+* As we expected, all three users found this task set straightforward.
+* All users **completed this task set successfully** and [rated 5 (very easy)]() for its difficulty level.
+
+***** 
+
+[**Task set 2: Coloring**]()
+
+Task Instructions: Users were asked to navigate to the “Try Coloring” section and describe verbally how they would use functionalities on the page.
+
+* As we expected, all three users found the coloring section easily.
+* We thought users would click the “Next” button to save their coloring progress. However, **two out of three users did not make any comments about the “Next” button**, and **one of the users misunderstood its functionality** as a button they could press to get a different picture to color.
+* We expected users to press the pencil icon at the bottom of the coloring page when switching from the erasing mode to the coloring mode. However, contrary to our expectation, one of the users also thought that by pressing the pencil icon, they would be able to change the thickness of the pencil tool.
+* All users **completed this task set successfully** and [rated either fairly easy (4)]() due to the confusion about the “Next” button or very easy (5).
+
+![/color_therapy](images//colortherapy.jpeg)
+
+***** 
+
+[**Task set 3: Interact with an emotional support animal**]()
+Task Instructions: users were asked to navigate to the “Emotional support animal” section and drag a sushi icon covering a negative word in the search bar at the top to a bowl in front of a cat near the bottom of the page.
+
+* We thought navigating to the emotional support animal section would be intuitive. However, because of the mismatch between the title for this activity on the home page (Emotional support animal) and that in the navbar (Interact with your favorite animal), **users were confused about whether clicking a title in the home page leads to the same page as clicking a title in the navbar.**	
+* We thought that one simple interaction with the support animal would be sufficient to help users feel better. However, contrary to our expectation, [one of the users pointed out that the activity did not have much impact on improving their mood](), and another user said they expected there to be more possible interactions with the animal.
+* All users **completed this task set successfully** and [rated very easy (5)]() for its difficulty level.
+
+![/interact_animal](images//sushicat.jpeg)
+
+***** 
+
+[Task set 4: Talk with someone]()
+
+Task Instructions:  users were asked to navigate to the “Talk with someone” section and describe verbally how they would interact with its functionalities.
+
+* Unlike our expectation, **one user found it difficult to locate the section**, because it was not listed in the navbar, so they had to navigate back to the homepage to find this section.
+* As we expected, **all three users found the chat functionality helpful and intuitive to use.**
+* Because the navbar included “Try Koko on Tumblr”, we thought users would notice that the app is integrated with Tumblr. However, one of the users said they were unfamiliar with Tumblr and did not notice the integration.
+** All users completed this task set successfully, and [rated either fairly easy (4) or very easy (5)]() for its difficulty level.
+
+![/talk_therapy](images//talktherapy.jpeg)
+
+***** 
 
 
