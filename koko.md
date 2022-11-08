@@ -112,6 +112,7 @@ Task Instructions: Users were asked to navigate to the “Try Coloring” sectio
 ***** 
 
 [**Task set 3: Interact with an emotional support animal**]()
+
 Task Instructions: users were asked to navigate to the “Emotional support animal” section and drag a sushi icon covering a negative word in the search bar at the top to a bowl in front of a cat near the bottom of the page.
 
 * We thought navigating to the emotional support animal section would be intuitive. However, because of the mismatch between the title for this activity on the home page (Emotional support animal) and that in the navbar (Interact with your favorite animal), **users were confused about whether clicking a title in the home page leads to the same page as clicking a title in the navbar.**	
