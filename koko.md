@@ -73,12 +73,17 @@ After incorporating feedback from our stakeholders and an industry guest (Hannah
 * Navigate to the [Talk to Someone]() page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 * This page is not fully functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 
-[**Questions after Task Completion**]()
+[**Post Task Questions and User Interactions**]()
 
 1. What frustrated you most about this site?
 2. How would you improve this site?
 3. What did you like about the site?
 4. How likely are you to recommend this site to a friend or colleague [0=Not at all likely, and 10=Very likely]?
+
+We recorded both the testing instructions and post-test questions. Here are the links for three user interactions with Koko:
+* [Interaction 1](https://app.usertesting.com/v/53450389-bdc6-40e5-a4d2-3867f7deb441?encrypted_video_handle=c3bc0c06-45e0-4443-9244-d140edd1a44a#!/notes&s[…]_via=link)
+* [Interaction 2](https://app.usertesting.com/v/92ae1ff9-fc9b-4ade-af84-2b676dbe20ee?encrypted_video_handle=168f1150-1e2e-4b71-918c-a4b057b20a80#!/notes&s[…]_via=link)
+* [Interaction 3](https://app.usertesting.com/v/aa2555a7-acdb-4438-966d-f46d34c87b9c?encrypted_video_handle=5c1bcbd3-f6d5-46d7-93e3-39d2ac03ec24#!/notes&s[…]_via=link)
 
 ***** 
 
