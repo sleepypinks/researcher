@@ -130,4 +130,13 @@ Task Instructions:  users were asked to navigate to the “Talk with someone” 
 
 ***** 
 
+## Potential interface changes
 
+After our analysis, the team met and brainstormed what are the crucial aspect in which we might need to redesign Koko. Here are some of our observations:
+
+* We should match titles listed on the homepage to those in the navbar to highlight that the same titles lead to the same page, regardless of their location on the website.
+* We should add functionalities to choose different pictures in the coloring page and change the text of the “Next” button to “Save” so that users can easily see that they can press the button to save their progress.
+* We should add more ways to interact with the emotional support animal, and change the visualization of the animal at different stages of interaction with the user (e.g., the cat can jump once it receives the sushi from the user).
+* We should clarify on the homepage that the app is integrated with Tumblr.
+
+[Stay tuned for an updated version of Koko!]() ❤️
