@@ -62,16 +62,16 @@ After incorporating feedback from our stakeholders and an industry guest (Hannah
 
 [**Testing Instructions**]()
 
-* From the home page, tap [Explore your Feelings]() [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* On the Explore Your Feelings page, tap [Stressed]() [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* When given activity options, tap [Try Coloring]() [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* This mock-up page is not functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* This mock-up page is not functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* Navigate to the [Emotional Support Animal]() page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* Tap the screen and follow the directions to feed the cat sushi. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* Tap the screen and follow the directions to feed the cat sushi. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* Navigate to the [Talk to Someone]() page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
-* This page is not fully functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+1. From the home page, tap [Explore your Feelings]() [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+2. On the Explore Your Feelings page, tap [Stressed]() [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+3. When given activity options, tap [Try Coloring]() [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+4. This mock-up page is not functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+5. This mock-up page is not functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+6. Navigate to the [Emotional Support Animal]() page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+7. Tap the screen and follow the directions to feed the cat sushi. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+8. Tap the screen and follow the directions to feed the cat sushi. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+9. Navigate to the [Talk to Someone]() page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
+10. This page is not fully functional, but talk through how you would use this page. [Success: Yes, No] [5-point rating scale: Very difficult to Very easy]
 
 [**Post Task Questions and User Interactions**]()
 
