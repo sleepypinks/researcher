@@ -19,15 +19,14 @@ layout: default
 3. [Redesign mental health - Increasing social support and accessibility](https://sleepypinks.github.io/koko)
 
 
-Here is a table
+Here is a table of what I have been working so far
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+Year | Project | Description | Role
+-----|-------|--------|-------
+2022 | Live Typing  | Won Outstanding Lead Actor in a miniseries or a movie | UX Researcher
+2022 | Live Typing - Redesigned | Nominated for Best Leading Actor for Sherlock | UX Designer
+2022 | Diner | Won Best Actor miniseries or television film | React Developer
 
-Here is a horizontal rule
 
 ---
 
