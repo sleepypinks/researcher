@@ -23,10 +23,10 @@ Here is a table of what I have been working so far
 
 Year | Project | Description | Role
 -----|-------|--------|-------
-2022 | Live Typing  | Won Outstanding Lead Actor in a miniseries or a movie | UX Researcher
-2022 | Live Typing - Redesigned | Nominated for Best Leading Actor for Sherlock | UX Designer
-2022 | Diner | Won Best Actor miniseries or television film | React Developer
-
+2022 | Live Typing  | Observing and **interviewing real users** interacting with an interface, we created [personas]() based on these users, and illustrated a [storyboard]() for one of our persona | UX Researcher
+2022 | Live Typing - Redesigned | **Identifying flaws** in an existing interface, we created low-fidelity and high-fidelity prototypes for various screen sizes, and build a [responsive website]() based on those prototypes | UX Designer
+2022 | KOKO | Iteratively designing an application (mobile, web, or desktop) for a startup of our choice | UX Researcher
+2022 | React | Iteratively designing an application (mobile, web, or desktop) for a startup of your choice | React Developer
 
 ---
 
