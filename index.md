@@ -6,13 +6,11 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+👋 Hi, I’m @SleepyPinks. I aspire to create meaningful impact through design. I'm a busy person who has 4-hour long morning classes. I am taking UI/UX and for my assignments, I'm a tad bit inefficient at html programming. Whenever, I try to make my website from scratch, I get stuck in debugging 🐛 that makes me sleepy. This is why I am using github pages to make my portfolio :)
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research focuses on designing accessible social support healthcare applications. I use mixed methods research in my work, including interviews, ethnography observations, grounded theory and surveys. Currently, I am analysing language to understand cognitive biases present in textual communication which guides my work on creating AI powered mental health conversational agents for people with minimal access to healthcare. Previously, I designed novel applications to address the needs of Pakistan’s marganalized communities (e.g. people with lived experience, low-literate populations, visually impaired, and neuro-divergent children)
 
 ## Publications
 
