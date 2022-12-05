@@ -8,11 +8,11 @@ layout: default
 
 👋 Hi, I’m @SleepyPinks. I aspire to create meaningful impact through design. I'm a busy person who has 4-hour long morning classes. I am taking UI/UX and for my assignments, I'm a tad bit inefficient at html programming. Whenever, I try to make my website from scratch, I get stuck in debugging 🐛 that makes me sleepy. This is why I am using github pages to make my portfolio :)
 
-## Research Interest
 
-My research focuses on designing accessible social support healthcare applications. I use mixed methods research in my work, including interviews, ethnography observations, grounded theory and surveys. Currently, I am analysing language to understand cognitive biases present in textual communication which guides my work on creating AI powered mental health conversational agents for people with minimal access to healthcare. Previously, I designed novel applications to address the needs of Pakistan’s marganalized communities (e.g. people with lived experience, low-literate populations, visually impaired, and neuro-divergent children)
+> It’s not ‘us versus them’ or even ‘us on behalf of them.’ For a design thinker it has to be ‘us with them'
 
-## Publications
+
+## Projects
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
