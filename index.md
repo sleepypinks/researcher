@@ -19,7 +19,7 @@ My research focuses on designing accessible social support healthcare applicatio
 ## [**Real time texting - Design Strategies from a Pilot Study**](https://sleepypinks.github.io/userstudy)
 
 *Role: UX Researcher*
-![cheese](images/cheese_ui_demo.mp4)
+![cheese](images/texting.jpeg)
 
 Messages are annoying, frustrating and stressful. Those … while we wait for our friend’s message can induce stress, anxiety and apprehension. To better cater to these pesky feelings, a new chatroom is designed where users can see the message “on the go”. We conducted a pilot study to **brainstorm design strategies** to increase presence in messaging.
 
