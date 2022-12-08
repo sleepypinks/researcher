@@ -18,29 +18,29 @@ My research focuses on designing accessible social support healthcare applicatio
 
 # Projects
 
-* [**Real time texting - Pilot Study**](https://sleepypinks.github.io/userstudy)
+* [**Real time texting - Design Strategies from a Pilot Study**](https://sleepypinks.github.io/userstudy)
 
 *Role: UX Researcher*
 
-Conducting a pilot study to **brainstorm design strategies** to increase co-presence in messaging.
+Messages are annoying, frustrating and stressful. Those … while we wait for our friend’s message can induce stress, anxiety and apprehension. To better cater to these pesky feelings, a new chatroom is designed where users can see the message “on the go”. We conducted a pilot study to **brainstorm design strategies** to increase presence in messaging.
 
-* [**Redesign messages - Explore personas and story-boarding**](https://sleepypinks.github.io/personas)
+* [**Real time texting - Exploring the interface through personas and story-boarding**](https://sleepypinks.github.io/personas)
 
 *Role: UX Researcher*
 
-Observing and **interviewing real users** interacting with an interface, we created personas based on these users, and illustrated a storyboard for one of our personas.
+We observing and **interviewing real users** interacting with our Real time texting website, and create personas based on these users. We then illustrate a storyboard for one of our personas.
  
-* [**Redesign messages - Redesigned for responsiveness**](https://sleepypinks.github.io/redesign)
+* [**Real time texting - Redesigning the website for responsiveness**](https://sleepypinks.github.io/redesign)
 
 *Role: UX Designer*
 
-**Identifying flaws** in an existing interface, we created low-fidelity and high-fidelity prototypes for various screen sizes, and build a responsive website based on those prototypes
+By **identifying flaws** in an our real time texting interface, we created low-fidelity and high-fidelity prototypes for various screen sizes, and build a responsive website based on those prototypes.
 
-* [**Redesign mental health - Increasing social support and accessibility**](https://sleepypinks.github.io/koko)
+* [**Koko - Increasing social support and accessibility in mental health**](https://sleepypinks.github.io/koko)
 
 *Role: Product Lead*
 
-Iteratively **designed an application** (mobile, web, or desktop) for a startup of our choice"
+We take a step back from designing messages for richer communication. In this project, we iteratively **designed an application** for a mental health startup."
 
 ---
 
