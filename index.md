@@ -36,7 +36,7 @@ Observing and **interviewing real users** interacting with an interface, we crea
 
 **Identifying flaws** in an existing interface, we created low-fidelity and high-fidelity prototypes for various screen sizes, and build a responsive website based on those prototypes
 
-* [Redesign mental health - Increasing social support and accessibility](https://sleepypinks.github.io/koko)
+* [**Redesign mental health - Increasing social support and accessibility**](https://sleepypinks.github.io/koko)
 
 *Role: Product Lead*
 
