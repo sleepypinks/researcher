@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## About Me
+# About Me
 
 <img class="profile-picture" src="images/1599155795154.jpeg">
 
 👋 Hi, I’m @SleepyPinks. I aspire to create meaningful impact through design. I am a grad student in the Human-Computer Interaction (HCI) at Brown University, where I am advised by Prof. Jeff Huang. Before joining Brown, I worked on the intersection of design and technology to improve the psychological and educational impact of everyday tech.
 
-## Research Interests
+# Research Interests
 
 My research focuses on designing accessible social support healthcare applications. I use mixed methods research in my work, including interviews, ethnography observations, grounded theory and surveys. Currently, I am analysing design to increase the richness of text-based platforms.
 
@@ -16,7 +16,7 @@ My research focuses on designing accessible social support healthcare applicatio
 > It’s not ‘us versus them’ or even ‘us on behalf of them.’ For a design thinker it has to be ‘us with them'
 
 
-## Projects
+# Projects
 
 1. [Real time texting - Pilot Study](https://sleepypinks.github.io/userstudy)
 *Role: UX Researcher*
@@ -37,7 +37,7 @@ My research focuses on designing accessible social support healthcare applicatio
 ---
 
 
-## References
+# Publications
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
