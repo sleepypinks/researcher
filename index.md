@@ -16,14 +16,14 @@ My research focuses on designing accessible social support healthcare applicatio
 
 # Projects
 
-* [**Real time texting - Design Strategies from a Pilot Study**](https://sleepypinks.github.io/userstudy)
+## [**Real time texting - Design Strategies from a Pilot Study**](https://sleepypinks.github.io/userstudy)
 
 *Role: UX Researcher*
 ![cheese](images/cheese_ui_demo.mp4)
 
 Messages are annoying, frustrating and stressful. Those … while we wait for our friend’s message can induce stress, anxiety and apprehension. To better cater to these pesky feelings, a new chatroom is designed where users can see the message “on the go”. We conducted a pilot study to **brainstorm design strategies** to increase presence in messaging.
 
-* [**Real time texting - Exploring the interface through personas and story-boarding**](https://sleepypinks.github.io/personas)
+## [**Real time texting - Exploring the interface through personas and story-boarding**](https://sleepypinks.github.io/personas)
 
 *Role: UX Researcher*
 
@@ -31,7 +31,7 @@ Messages are annoying, frustrating and stressful. Those … while we wait for ou
 
 We observing and **interviewing real users** interacting with our Real time texting website, and create personas based on these users. We then illustrate a storyboard for one of our personas.
  
-* [**Real time texting - Redesigning the website for responsiveness**](https://sleepypinks.github.io/redesign)
+## [**Real time texting - Redesigning the website for responsiveness**](https://sleepypinks.github.io/redesign)
 
 *Role: UX Designer*
 
@@ -39,7 +39,7 @@ We observing and **interviewing real users** interacting with our Real time text
 
 By **identifying flaws** in an our real time texting interface, we created low-fidelity and high-fidelity prototypes for various screen sizes, and build a responsive website based on those prototypes.
 
-* [**Koko - Increasing social support and accessibility in mental health**](https://sleepypinks.github.io/koko)
+## [**Koko - Increasing social support and accessibility in mental health**](https://sleepypinks.github.io/koko)
 
 *Role: Product Lead*
 
