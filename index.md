@@ -18,21 +18,29 @@ My research focuses on designing accessible social support healthcare applicatio
 
 # Projects
 
-1. [Real time texting - Pilot Study](https://sleepypinks.github.io/userstudy)
-*Role: UX Researcher*
-"Conducting a pilot study to brainstorm design strategies to increase co-presence in messaging"
+1. [**Real time texting - Pilot Study**](https://sleepypinks.github.io/userstudy)
 
-2. [Redesign messages - Explore personas and story-boarding](https://sleepypinks.github.io/personas)
 *Role: UX Researcher*
-"Observing and **interviewing real users** interacting with an interface, we created [personas]() based on these users, and illustrated a [storyboard]() for one of our persona"
+
+Conducting a pilot study to **brainstorm design strategies** to increase co-presence in messaging.
+
+2. [**Redesign messages - Explore personas and story-boarding**](https://sleepypinks.github.io/personas)
+
+*Role: UX Researcher*
+
+Observing and **interviewing real users** interacting with an interface, we created personas based on these users, and illustrated a storyboard for one of our personas.
  
-3. [Redesign messages - Redesigned for responsiveness](https://sleepypinks.github.io/redesign)
+3. [**Redesign messages - Redesigned for responsiveness**](https://sleepypinks.github.io/redesign)
+
 *Role: UX Designer*
-"**Identifying flaws** in an existing interface, we created low-fidelity and high-fidelity prototypes for various screen sizes, and build a [responsive website]() based on those prototypes"
+
+**Identifying flaws** in an existing interface, we created low-fidelity and high-fidelity prototypes for various screen sizes, and build a responsive website based on those prototypes
 
 4. [Redesign mental health - Increasing social support and accessibility](https://sleepypinks.github.io/koko)
+
 *Role: Product Lead*
-"Iteratively designing an application (mobile, web, or desktop) for a startup of our choice"
+
+Iteratively **designed an application** (mobile, web, or desktop) for a startup of our choice"
 
 ---
 
