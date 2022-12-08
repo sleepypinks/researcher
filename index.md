@@ -25,7 +25,7 @@ My research focuses on designing accessible social support healthcare applicatio
 2. [Redesign messages - Explore personas and story-boarding](https://sleepypinks.github.io/personas)
 *Role: UX Researcher*
 "Observing and **interviewing real users** interacting with an interface, we created [personas]() based on these users, and illustrated a [storyboard]() for one of our persona"
-
+ 
 3. [Redesign messages - Redesigned for responsiveness](https://sleepypinks.github.io/redesign)
 *Role: UX Designer*
 "**Identifying flaws** in an existing interface, we created low-fidelity and high-fidelity prototypes for various screen sizes, and build a [responsive website]() based on those prototypes"
