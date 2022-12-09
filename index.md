@@ -16,7 +16,7 @@ My research focuses on designing accessible social support healthcare applicatio
 
 # Projects
 
-## [**Real-time texting - Design Strategies from a Pilot Study**](https://sleepypinks.github.io/userstudy)
+## [**Real-time texting - Design Strategies from a Pilot Study**](https://sleepypinks.github.io/)
 
 *Role: UX Researcher*
 
