@@ -12,7 +12,7 @@ My research focuses on [designing accessible social support healthcare applicati
 
 ***
 
-# Updates
+## Updates
 
 September 2021: I started grad school at Brown HCI. 
 
@@ -20,7 +20,7 @@ August 2021: I finished my undergrad in Computer Science.
 
 ***
 
-# Research Projects
+## Research Projects
 
 <img class="profile-picture" src="images/texting.jpeg">
 
@@ -42,7 +42,7 @@ August 2021: I finished my undergrad in Computer Science.
 
 ---
 
-# Publications
+## Publications
 
 * Pinks, Sleepy, and Herman Tolle. **Method for real time text extraction of digital messaging.** International Journal of Image Processing (IJIP) 4.6 (2011)
 * Pinks, Sleepy, et al. **Investigation and modeling of the structure of texting language.** International Journal of Document Analysis and Recognition (IJDAR) 10.3 (2007): 157-174.
