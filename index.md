@@ -36,7 +36,7 @@ August 2021: I finished my undergrad in Computer Science.
 
 **Redesigning texting interfaces for responsiveness:**] By `identifying flaws` in an our real time texting interface, we created low-fidelity and high-fidelity prototypes for various screen sizes, and build a responsive website based on those prototypes. [[project]](https://sleepypinks.github.io/redesign)
 
-<img class="profile-picture" src="images/peersupport.jpeg")
+<img class="profile-picture" src="images/peersupport.jpeg">
      
 **Koko - Increasing social support and accessibility in mental health:** We take a step back from designing messages for richer communication. In this project, we iteratively `designed an application` for a mental health startup. [[project]](https://sleepypinks.github.io/koko)
 
