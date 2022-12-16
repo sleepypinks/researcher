@@ -1,4 +1,4 @@
-# Overview
+# Contextual Inquiry of Brown HCI's Live Typing Interface
 
 In this study, we step in a user's shoes to observe their interaction with chat room designed to show messages as they are typed in real time. I observe users interactions with a [public chatroom](http://chatatbrownhci.herokuapp.com), what are users thinking when they interact with the interface and how do they behave. How does the interface make them "feel"? We combine these thoughts, feelings and behaviors and create three personas and one storyboard.
 
