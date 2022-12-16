@@ -12,7 +12,7 @@ In this research project, we design a new interface that displays message as the
 
 `Figure 1: With real time text (or as we call it **Live Typing**, messages appear on the screen as you type them.`
 
-# Brainstorming User Needs
+## Brainstorming User Needs
 
 After brainstorming on the limitations of the messaging applications, the next thing, in our journey, was to create some sketches - what does Live Typing mean for each user? All of us decided to brainstorm what does real time text application entail and how can we design an interface for users with different needs. 
 
@@ -20,7 +20,7 @@ After brainstorming on the limitations of the messaging applications, the next t
 
 Soon, we realise that designing for users is hard until we meet actual users and [ask them what they need](), a common practice in requirements engineering in UX. Hence, we decided to recruit participants to **inform us of their experiences** with common messaging applications and what would they change of improve in these applications. This activity stood as a pilot study to understand users' needs and challenges in their text-based interactions.
 
-# Pilot Study - Designing Novel Ways for increasing "nonverbal cues" in Messaging
+## Pilot Study - Designing Novel Ways for increasing "nonverbal cues" in Messaging
 
 Before designing the interface, we recruited [24 participants]() for a sketching activity. The sketching activity had the following narrative:
 
@@ -32,7 +32,7 @@ We [did not tell users about real time texting design](). We wanted to see if th
 
 In our next project, we aspire to create the website and run a usability study to test for user experiences. Find the next project [here](https://sleepypinks.github.io/personas).
 
-# Lessons Learned
+## Lessons Learned
 
 While we had a hard-coded idea of how to convey non-verbal cues in messaging, our users differed in their responses. The pilot study helped us understand how users view nonverbal cues. The themes that emerged from our sketches included conveying non-verbal cues through various ways: [by creating avatars](), [voice memos](), [real time text]() and [speech bubbles](). While our research focuses on real time text (which is why we decided to go with this theme, future designers must always conduct a pilot study to brainstorm different user needs before they decide to design and ship a product.
  
