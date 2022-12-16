@@ -12,7 +12,7 @@ In this research project, we design a new interface that displays message as the
 
 `Figure 1: With real time text (or as we call it **Live Typing**, messages appear on the screen as you type them.`
 
-# Designing Live Typing (Real Time Text)
+# Brainstorming User Needs
 
 After brainstorming on the limitations of the messaging applications, the next thing, in our journey, was to create some sketches - what does Live Typing mean for each user? All of us decided to brainstorm what does real time text application entail and how can we design an interface for users with different needs. 
 
@@ -20,8 +20,12 @@ After brainstorming on the limitations of the messaging applications, the next t
 
 Soon, we realise that designing for users is hard until we meet actual users and [ask them what they need](), a common practice in requirements engineering in UX. Hence, we decided to recruit participants to **inform us of their experiences** with common messaging applications and what would they change of improve in these applications. This activity stood as a pilot study to understand users' needs and challenges in their text-based interactions.
 
-# Pilot Study
+# Pilot Study - Designing Novel Ways for increasing "nonverbal cues" in Messaging
 
 Before designing the interface, we recruited [24 participants]() for a sketching activity. The sketching activity had the following narrative:
 
 `Imagine you are stressed out and you're in a bad mood. You don't prefer to call someone, and like to stay connected to your friends using texts. Your task is to think aloud of ways that you can improve the texting application to convey nonverbal cues. IN face to face communication, these cues are pauses, hesitations, gestures, and tone. How would you design a new interface to have some of these cues in texting applications? Please note this is not the design of an actual app.`
+
+We [did not tell users about real time texting design](). We wanted to see if the concept emerges on it own.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FELovpx1WJWJEHecHB5MH6R%2FUntitled%3Fnode-id%3D0%253A1%26t%3Dn0pdUB4YthX9qx1S-1" allowfullscreen></iframe>
