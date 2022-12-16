@@ -20,9 +20,12 @@ nav:
  #  link: "/researcher/"
  #- name: "Resume"
  #  link: "resume.pdf"
+ - name: "Real Time Text"
+   link: "livetyping"
  - name: "Personas"
    link: "personas"
  - name: "Responsive Redesign"
    link: "redesign"
  - name: "Koko"
    link: "koko"
+ 
