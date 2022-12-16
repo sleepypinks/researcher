@@ -2,8 +2,6 @@
 
 Messages are annoying, frustrating and stressful. Those ... while we wait for our friend's message can induce stress, anxiety and apprehension. To better cater to these pesky feelings, a new chatroom is designed where users can see the message "on the go".
 
-****
-
 [Interface Objective: Increasing user's perceived co-presence.](http://chatatbrownhci.herokuapp.com)
 
 But, wait a second. That sign up page is not the best based on HCI's usability and accessibility standards. This page might not work for visually impaired, people with low vision, and probably can be too difficult to engage with for an average user as well. It also is not informative and memorable. The title says "Welcome to Brown HCI Research Study" - that's vague and anyone coming back to it would not remember what the study or interface was about.
@@ -34,9 +32,7 @@ _I think I understand your point. But now what?_ Amy Angry has agreed that altho
 
 ![desktop.jpeg](images/desktop.jpeg)
 
-*****
-
-*Figure 1: Live Typing's log in page redesigned for dektop.*
+`Figure 1: Live Typing's log in page redesigned for dektop.`
 
 *****
 
@@ -44,17 +40,14 @@ _But my users don't access my website ONLY from their laptops_. We heard that, A
 
 ![tablet.jpeg](images/tablet.jpeg)
 
-*****
-
-*Figure 2: Live Typing's log in page redesigned for tablet.*
+`Figure 2: Live Typing's log in page redesigned for tablet.`
 
 *****
 
 ![mobile.jpeg](images/mobile.png)
 
-*****
 
-*Figure 3: Live Typing's log in page redesigned for mobile.*
+`Figure 3: Live Typing's log in page redesigned for mobile.`
 
 *****
 
@@ -64,9 +57,7 @@ Angry Amy is impressed. She has asked us to [conceptualise these wireframes](). 
 
 ![styleguide.jpeg](images/styleguide.jpeg)
 
-*****
-
-*Figure 4: Live Typing UI/UX Style Guide.*
+`Figure 4: Live Typing UI/UX Style Guide.`
 
 *****
 
@@ -79,29 +70,19 @@ First, we present the hi-fidelity prototypes for the desktop. [The code is attac
 
 ![hifidekstop.jpeg](images/hifidesktop.jpeg)
 
-*****
-
-*Figure 5: Hi-fidelity prototype for Live Typing's Desktop View.*
-
-*****
+`Figure 5: Hi-fidelity prototype for Live Typing's Desktop View.`
 
 Next, we adjust our css style to accomodate the tablet view.
 
 ![hifitablet.jpeg](images/hifitablet.jpeg)
 
-*****
-
-*Figure 6: Hi-fidelity prototype for Live Typing's Tablet View.*
-
-*****
+`Figure 6: Hi-fidelity prototype for Live Typing's Tablet View.`
 
 Lastly, we remove some elements to give a compact design for mobile-users.
 
 ![hifimobile.jpeg](images/hiifimobile.jpeg)
 
-*****
-
-*Figure 7: Hi-fidelity prototype for Live Typing's Mobile View.*
+`Figure 7: Hi-fidelity prototype for Live Typing's Mobile View.`
 
 *****
 
