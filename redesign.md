@@ -72,8 +72,6 @@ First, we present the hi-fidelity prototypes for the desktop. [The code is attac
 
 `Figure 5: Hi-fidelity prototype for Live Typing's Desktop, Tablet and Mobile View.`
 
-Next, we adjust our css style to accomodate the tablet view.
-
 *****
 
 Amy Angry requests access to the complete website. She wants to check for responsiveness herself. Well, [here you go](https://chatappforuiux.herokuapp.com/).
