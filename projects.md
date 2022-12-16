@@ -5,7 +5,7 @@ layout: default
 # Research Projects
 👋 Here you can find a list of my research projects. Since I am a researcher, each of my project is provided with a **context**, **research question**, **process method to explore those questions**, and **lessons learned**. Happy navigating! :)
 
-## [**Real-time texting - Design Strategies from a Pilot Study**]()[website](https://sleepypinks.github.io/livetyping)
+## [**Real-time texting - Design Strategies from a Pilot Study**]() [[project]](https://sleepypinks.github.io/livetyping)
 
 ![cheese](images/texting.jpeg)
 
@@ -15,7 +15,7 @@ Messages are annoying, frustrating and stressful. Those three dots… while we w
 
 ***
 
-## [**Exploring real-time text interface through personas and story-boarding**]()[website](https://sleepypinks.github.io/personas)
+## [**Exploring real-time text interface through personas and story-boarding**]() [[project]](https://sleepypinks.github.io/personas)
 
 ![confuse2.png](images/confuse2.png)
 
@@ -25,7 +25,7 @@ By observing and **interviewing real users** interacting with our real time text
 
 ***** 
 
-## [**Redesigning texting interfaces for responsiveness**]()[website](https://sleepypinks.github.io/redesign)
+## [**Redesigning texting interfaces for responsiveness**]() [[project]](https://sleepypinks.github.io/redesign)
 
 ![desktop.jpeg](images/desktop.jpeg)
 
@@ -36,7 +36,7 @@ By **identifying flaws** in an our real time texting interface, we created low-f
 *** 
 
 
-## [**Koko - Increasing social support and accessibility in mental health**]()[website](https://sleepypinks.github.io/koko)
+## [**Koko - Increasing social support and accessibility in mental health**]() [[website]](https://sleepypinks.github.io/koko)
 
 ![/peer_support](images//peersupport.jpeg)
 
