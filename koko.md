@@ -145,4 +145,6 @@ After our analysis, the team met and brainstormed what are the crucial aspect in
 * We should add more ways to interact with the emotional support animal, and change the visualization of the animal at different stages of interaction with the user (e.g., the cat can jump once it receives the sushi from the user).
 * We should clarify on the homepage that the app is integrated with Tumblr.
 
-[Stay tuned for an updated version of Koko!]() ❤️
+Stay tuned for an updated version of Koko! ❤️
+
+[Navigate your way back to my projects](https://sleepypinks.github.io/) ❤️
