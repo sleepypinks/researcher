@@ -67,3 +67,6 @@ We take a step back from designing messages for richer communication. In this pr
 
 * Pinks, Sleepy, and Herman Tolle. **Method for real time text extraction of digital messaging.** International Journal of Image Processing (IJIP) 4.6 (2011)
 * Pinks, Sleepy, et al. **Investigation and modeling of the structure of texting language.** International Journal of Document Analysis and Recognition (IJDAR) 10.3 (2007): 157-174.
+
+
+[click on this link](#Projects)
