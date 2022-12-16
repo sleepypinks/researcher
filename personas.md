@@ -24,7 +24,7 @@ But does the said design increase the actual co-presence? To observe user's inte
 ## Home Screen
 ![Drawing-2.sketchpad.jpeg](images/Drawing-2.sketchpad.jpeg)
 
-*Figure 1: Live Typing's homepage. Once the user clicks 'Log In', it takes them to the next screen i.e. the chat room.*
+`Figure 1: Live Typing's homepage. Once the user clicks 'Log In', it takes them to the next screen i.e. the chat room.`
 
 ### User Interviews for Home Screen
 
@@ -41,7 +41,7 @@ What do you like about these apps? | What do you think will happen when you pres
 ![Drawing-1.sketchpad.jpeg](images/Drawing-1.sketchpad.jpeg)
 
 
-*Figure 2: Live Typing's screen sketched out. User can see the other person's response in real time. The interface is trying to increase user's perceived social presence in written communication (messaging here) but displaying what the other person is typing 'on the go'.*
+`Figure 2: Live Typing's screen sketched out. User can see the other person's response in real time. The interface is trying to increase user's perceived social presence in written communication (messaging here) but displaying what the other person is typing 'on the go'.`
 
 ### User Interviews for Live Typing Screen
 
@@ -65,7 +65,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 ![confuse2.png](images/confuse2.png)
 
-*Figure 3: User's state while interacting with an interface (Pictures from Adobe Stock).*
+`Figure 3: User's state while interacting with an interface (Pictures from Adobe Stock).`
 
 ****
 
@@ -99,15 +99,15 @@ Please point to any items you would like to change on the screen. | Is there any
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FaOOdjLYArd7Dfti21DC7pB%2FEmpathy-map-(Community)%3Fnode-id%3D502%253A491%26t%3DYyAXsSUkCtHIAYy5-1" allowfullscreen></iframe>
 
-*Figure 5: A persona map to show what Waiting Wyona feels, thinks, says and does.*
+`Figure 5: Wyona is a graduate student and is in a long distance relationship. She uses online communication to stay in touch with her partner and her family.`
 
 *****
 
 ## Persona 2: Privacy Aware Pamella
 
-![/map1.jpg](images//map1.jpg)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FaOOdjLYArd7Dfti21DC7pB%2FEmpathy-map-(Community)%3Fnode-id%3D506%253A146%26t%3DYyAXsSUkCtHIAYy5-1" allowfullscreen></iframe>
 
-*Figure 5: Privacy Aware Pamella is a mother of two who is the head of Human Factors department at Apple. She takes privacy very seriously and does not allow any gadegts at home.*
+`Figure 6: Privacy Aware Pamella is a mother of two who is the head of Human Factors department at Apple. She takes privacy very seriously and does not allow any gadegts at home.`
 
 *****
 
@@ -118,4 +118,10 @@ Let's see the user journey of Waiting Wyona. Remember that **Waiting Wyona is in
 1. How Live Typing interface takes some stress away from Wiating Wyona as she is waiting for her partner's repsonse.
 2. How we can make the design accessible for our users who feel stressed using messaging.
 
-![/Drawing-5.sketchpad.jpeg](images//Drawing-5.sketchpad.jpeg)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FkmR4OkiBp7dmZSfnqF4Cl5%2FStoryboard-Design-Exercise-(Copy)%3Fnode-id%3D0%253A1%26t%3Dq0Tr53ZPQ70VUojH-1" allowfullscreen></iframe>
+
+*****
+
+# Lessons Learned
+
+Messages can be amazing as they let you type at your convenience and time. However, there are cases for users when messages can feel stressful. Users who have anxiety can have increased anxiety when their friend or partner is typing for too long and they have to see tree dots (...) for several minutes! This is why we created a [new chat room]() where users can see messages as the sender is typing them before they even hit _Send_! We then [conducted interviewes to understand users’ perceptions] of how the interfaces affected their communication and if they would use this chatroom in real lives. While several users were **uncomfortable**, we recorded polar observations where users who had high anxiety would appreciate this interface. Future designers should focus on how to redesign messaging interfaces that would reduce anxiety but would not cause feelings of distress.
