@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# About Me
-
 <img class="profile-picture" src="images/1599155795154.jpeg">
 
 👋 Hi, I’m @SleepyPinks. I aspire to **create meaningful impact through design**. I am a grad student in the [Human-Computer Interaction (HCI) Lab](https://hci.brown.edu/) at Brown University. Before joining Brown, I worked on the intersection of design and technology to improve the psychological and educational impact of everyday tech.
