@@ -38,4 +38,4 @@ While we had a hard-coded idea of how to convey non-verbal cues in messaging, ou
  
 ***
 
-[Navigate your way back to my projects](https://sleepypinks.github.io/) ❤️
+[Navigate your way back to my projects](https://sleepypinks.github.io/projects) ❤️
