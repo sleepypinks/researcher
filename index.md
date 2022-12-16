@@ -6,13 +6,19 @@ layout: default
 
 <img class="profile-picture" src="images/1599155795154.jpeg">
 
-👋 Hi, I’m @SleepyPinks. I aspire to create meaningful impact through design. I am a grad student in the Human-Computer Interaction (HCI) at Brown University, where I am advised by Prof. Jeff Huang. Before joining Brown, I worked on the intersection of design and technology to improve the psychological and educational impact of everyday tech.
+👋 Hi, I’m @SleepyPinks. I aspire to **create meaningful impact through design*. I am a grad student in the [Human-Computer Interaction (HCI) Lab](https://hci.brown.edu/) at Brown University. Before joining Brown, I worked on the intersection of design and technology to improve the psychological and educational impact of everyday tech.
+
+> Designing for marganised communities who are overlooked by the Design community.
+
+***
 
 # Research Interests
 
-My research focuses on designing accessible social support healthcare applications. I use mixed methods research in my work, including interviews, ethnography observations, grounded theory and surveys. Currently, I am analysing design to increase the richness of text-based platforms.
+My research focuses on designing accessible social support healthcare applications. I use mixed methods research in my work, including interviews, ethnography observations, grounded theory and surveys. Currently, I am researching on ways to convey social and nonverbal cues in messaging application. 
 
-> It’s not ‘us versus them’ or even ‘us on behalf of them.’ For a design thinker it has to be ‘us with them'
+Before coming to Brown, I designeded novel applications to address the needs of Pakistan’s marganalized communities (e.g. people with lived experience, low-literate populations, visually impaired, and neuro-divergent children). 
+
+***
 
 # Projects
 
@@ -22,9 +28,9 @@ My research focuses on designing accessible social support healthcare applicatio
 
 ![cheese](images/texting.jpeg)
 
-Messages are annoying, frustrating and stressful. Those … while we wait for our friend’s message can induce stress, anxiety and apprehension. To better cater to these pesky feelings, a new chatroom is designed where users can see the message “on the go”. We conducted a pilot study to **brainstorm design strategies** to increase presence in messaging.
+Messages are annoying, frustrating and stressful. Those three dots… while we wait for our friend’s message can induce stress, anxiety and apprehension. To better cater to the lack of nonverbal cues, a new chatroom is designed where users can see the message “on the go”. We conducted a pilot study to **brainstorm design strategies** to increase presence in messaging.
 
-***** 
+***
 
 ## [**Exploring real-time text interface through personas and story-boarding**](https://sleepypinks.github.io/personas)
 
@@ -32,7 +38,7 @@ Messages are annoying, frustrating and stressful. Those … while we wait for ou
 
 ![confuse2.png](images/confuse2.png)
 
-We observing and **interviewing real users** interacting with our Real time texting website, and create personas based on these users. We then illustrate a storyboard for one of our personas.
+By observing and **interviewing real users** interacting with our real time texting website, we created personas based on these users. We then illustrate a storyboard for one of our personas.
  
 ***** 
 
@@ -44,7 +50,7 @@ We observing and **interviewing real users** interacting with our Real time text
 
 By **identifying flaws** in an our real time texting interface, we created low-fidelity and high-fidelity prototypes for various screen sizes, and build a responsive website based on those prototypes.
 
-***** 
+*** 
 
 
 ## [**Koko - Increasing social support and accessibility in mental health**](https://sleepypinks.github.io/koko)
@@ -57,8 +63,7 @@ We take a step back from designing messages for richer communication. In this pr
 
 ---
 
-
 # Publications
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* Pinks, Sleepy, and Herman Tolle. **Method for real time text extraction of digital messaging.** International Journal of Image Processing (IJIP) 4.6 (2011)
+* Pinks, Sleepy, et al. **Investigation and modeling of the structure of texting language.** International Journal of Document Analysis and Recognition (IJDAR) 10.3 (2007): 157-174.
