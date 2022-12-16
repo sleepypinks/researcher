@@ -2,14 +2,14 @@
 
 Koko is a startup that [integrates mental health resources in pre-existing social media platforms to provide younger adults an easier access point to mental health care]().  They partner with online communities to help find and treat at-risk individuals directly on their platform using online interventions on Koko. They use a keyword-trigger design system in which certain negative-thought-keywords will trigger the interface to open up resources for mental health. In this design process, we are creating a plug-in feature linked to a Koko mobile app. 
 
-# Designing Koko
+## Designing Koko
 A mobile app format was chosen because many personal conversations for young adolescents and adults happen on phones and messaging apps. In comparison, laptops and desktops may be used just for working purposes. The simple plug-in features would transition better on the phone because it is a simple screen change. 
 
 This Koko mobile app includes a diverse set of features such as [color therapy](), [online consulting](), and also [virtual pet therapy]() powered by cognitive behavioral therapy (CBT). We added diversified features and access points to therapy because we recognize individuals may require different types of help and that a one-size-fit-all approach may not work for everyone. In particular, we think that color therapy would be a good form of distracting users visually, online consulting is good for users who want to verbally express themselves, and therapy with a virtual pet therapy may be good for users who want to feel more social contact or need behavioral adjustments for distraction. These diverse activities can help users redirect not only their thoughts but also their online behavior in a more positive direction when using other websites. 
 
 *****
 
-# Sketch it Out
+## Sketch it Out
 After planning Koko's functionalities, the next thing, in our journey, was to create some sketches - what does Koko mean for each user? All of us decided to brainstorm what does accessible mental health entail and how can we design an application for users with different needs. Below we present the initial sketches (individual brainstorming sessions) where each user [designed their own version of Koko](). You can differentiate between the versions by the title (Design Alternative #).
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F27aMDJQ09JIGShiR6gazvR%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
@@ -18,7 +18,7 @@ After planning Koko's functionalities, the next thing, in our journey, was to cr
 
 *****
 
-# Low-Fidelity Prototype
+## Low-Fidelity Prototype
 
 Although we had some ideas for Koko, our intuiton behind the features differed. Accessible mental health can be seen as all - an umbrella for multiple options! Some people want to explore their feelings through color and pet therapy while some would like to talk their feelings out. Which is why, we [combined the sketches to present one design framework for Koko]() that tries to satisfy different user needs. 
 
@@ -28,7 +28,7 @@ Although we had some ideas for Koko, our intuiton behind the features differed. 
 
 *****
 
-# Hi-Fidelity Prototype
+## Hi-Fidelity Prototype
 
 Next, we present the hi fidelity prototypes for Koko. In this stage, we decided on the vidual design guideline (color scheme, typography, hierarchy, interaction states) and the flow of the application. We chose [green as our primary color] as it's linked to calmer aura. Since we designed for a mobile platform, we kept the elements minimal and simplistic to avoid overwhelming the user.
 
@@ -40,7 +40,7 @@ Next, we present the hi fidelity prototypes for Koko. In this stage, we decided 
 
 ***** 
 
-# Hi-Fidelity Prototype: Feedback Incorporated
+## Hi-Fidelity Prototype: Feedback Incorporated
 
 After the design team has iterated over the mockup internally, the hi-fi prototypes were presented in front of other stakholders to receive feedback. Koko's initial mockup was [praised for simplistic and interactive elements (the sushi and the cat](), however, [users were concerned with the design's navigation and color scheme](). Below we have annotated the comments received from our stakeholders and our actions to incorporate that in our design.
 
@@ -52,7 +52,7 @@ After the design team has iterated over the mockup internally, the hi-fi prototy
 
 ***** 
 
-# User Testing
+## User Testing
 
 After incorporating feedback from our stakeholders and an industry guest (Hannah), we ran our own usability tests through a remote user testing service called [UserTesting](https://www.usertesting.com/) using our newly created interactive hi-fi prototypes informed by feedback. We presented users woth the following scenario:
 
@@ -87,7 +87,7 @@ We recorded both the testing instructions and post-test questions. Here are the 
 
 ***** 
 
-# User Testing Results & Analysis
+## User Testing Results & Analysis
 
 [**Task set 1: Explore feelings**]()
 
@@ -136,7 +136,7 @@ Task Instructions:  users were asked to navigate to the “Talk with someone” 
 
 ***** 
 
-## Potential interface changes
+### Potential interface changes
 
 After our analysis, the team met and brainstormed what are the crucial aspect in which we might need to redesign Koko. Here are some of our observations:
 
@@ -149,7 +149,7 @@ Stay tuned for an updated version of Koko! ❤️
 
 ***
 
-# Lessons Learned
+## Lessons Learned
 This project focused on a previous narrative of engaging with users before designing a project. First, each of our team member had a [different ideation for scalable mental health applications](). This implies that each user values different skillset for improving their mental health. While some users valued color therapy, others disliked it and wanted to engage with a peer supporter and talk their feelings out. Future designers must create personalised mental health applications for scalability and accessibility.
 
 ***
