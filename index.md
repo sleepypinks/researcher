@@ -22,7 +22,7 @@ Before coming to Brown, I designeded novel applications to address the needs of 
 
 # Projects
 
-## [**Real-time texting - Design Strategies from a Pilot Study**](https://sleepypinks.github.io/)
+## [**Real-time texting - Design Strategies from a Pilot Study**](https://sleepypinks.github.io/livetyping)
 
 ![cheese](images/texting.jpeg)
 
