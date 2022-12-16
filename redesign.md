@@ -75,3 +75,5 @@ First, we present the hi-fidelity prototypes for the desktop. [The code is attac
 *****
 
 Amy Angry requests access to the complete website. She wants to check for responsiveness herself. Well, [here you go](https://chatappforuiux.herokuapp.com/).
+
+[Navigate your way back to my projects](https://sleepypinks.github.io/) ❤️
