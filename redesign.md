@@ -72,8 +72,13 @@ First, we present the hi-fidelity prototypes for the desktop. [The code is attac
 
 `Figure 5: Hi-fidelity prototype for Live Typing's Desktop, Tablet and Mobile View.`
 
+Amy Angry requests access to the complete website. She wants to check for responsiveness herself. Well, [here you go](https://chatappforuiux.herokuapp.com/).
 *****
 
-Amy Angry requests access to the complete website. She wants to check for responsiveness herself. Well, [here you go](https://chatappforuiux.herokuapp.com/).
+# Lessons Learned
+
+By redesigning Live Typing's screen for responsiveness, we learned the [importance of a smooth user experience]. For a consistent user experience, it is necessary to design for accessibility focusing on the [principles of learnability, memorability and efficiency]. Research is not design, and while the most important thing for researchers is to **produce findings**, researchers might still want to focus on the principles of UX design for their participants even if they don't want to release their projects.
+
+***
 
 [Navigate your way back to my projects](https://sleepypinks.github.io/) ❤️
