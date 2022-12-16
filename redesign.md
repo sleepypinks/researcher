@@ -1,4 +1,4 @@
-# Overview: Live Typing Interface
+# Redesigning Brown HCI's Live Typing Interface for Usability
 
 Messages are annoying, frustrating and stressful. Those ... while we wait for our friend's message can induce stress, anxiety and apprehension. To better cater to these pesky feelings, a new chatroom is designed where users can see the message "on the go".
 
