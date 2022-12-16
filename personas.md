@@ -126,4 +126,4 @@ Let's see the user journey of Waiting Wyona. Remember that **Waiting Wyona is in
 
 Messages can be amazing as they let you type at your convenience and time. However, there are cases for users when messages can feel stressful. Users who have anxiety can have increased anxiety when their friend or partner is typing for too long and they have to see tree dots (...) for several minutes! This is why we created a [new chat room]() where users can see messages as the sender is typing them before they even hit _Send_! We then [conducted interviewes to understand users’ perceptions] of how the interfaces affected their communication and if they would use this chatroom in real lives. While several users were **uncomfortable**, we recorded polar observations where users who had high anxiety would appreciate this interface. Future designers should focus on how to redesign messaging interfaces that would reduce anxiety but would not cause feelings of distress.
 
-[Navigate your way back to my projects](https://sleepypinks.github.io/) ❤️
+[Navigate your way back to my projects](https://sleepypinks.github.io/projects) ❤️
