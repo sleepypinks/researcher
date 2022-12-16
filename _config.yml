@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "Home"
-   link: ""
+   link: "https://sleepypinks.github.io/#Projects"
 # - name: "Projects"
 #  link: "https://sleepypinks.github.io/#Projects"
  - name: "Resume"
