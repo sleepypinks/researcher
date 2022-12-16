@@ -81,4 +81,4 @@ By redesigning Live Typing's screen for responsiveness, we learned the [importan
 
 ***
 
-[Navigate your way back to my projects](https://sleepypinks.github.io/) ❤️
+[Navigate your way back to my projects](https://sleepypinks.github.io/projects) ❤️
