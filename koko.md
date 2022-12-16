@@ -155,4 +155,5 @@ This project focused on a previous narrative of engaging with users before desig
 ***
 
 
-[Navigate your way back to my projects](https://sleepypinks.github.io/) ❤️
+[Navigate your way back to my projects](https://sleepypinks.github.io/projects) ❤️
+
