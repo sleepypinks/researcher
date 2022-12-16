@@ -5,7 +5,7 @@ layout: default
 # Research Projects
 👋 Here you can find a list of my research projects. Since I am a researcher, each of my project is provided with a **context**, **research question**, **process method to explore those questions**, and **lessons learned**. Happy navigating! :)
 
-## [**Real-time texting - Design Strategies from a Pilot Study**](https://sleepypinks.github.io/livetyping)
+## [**Conveying Nonverbal Cues in Messaging - Findings from a Pilot Study**](https://sleepypinks.github.io/livetyping)
 
 ![cheese](images/texting.jpeg)
 
@@ -15,7 +15,7 @@ Messages are annoying, frustrating and stressful. Those three dots… while we w
 
 ***
 
-## [**Exploring real-time text interface through personas and story-boarding**](https://sleepypinks.github.io/personas)
+## [**Contextual Inquiry of Brown HCI’s Live Typing Interface**](https://sleepypinks.github.io/personas)
 
 ![confuse2.png](images/confuse2.png)
 
@@ -25,7 +25,7 @@ In this research project, we design a new interface that displays message as the
 
 ***** 
 
-## [**Redesigning texting interfaces for responsiveness**](https://sleepypinks.github.io/redesign)
+## [**Redesigning Brown HCI’s Live Typing Interface for Usability**](https://sleepypinks.github.io/redesign)
 
 ![desktop.jpeg](images/desktop.jpeg)
 
@@ -36,7 +36,7 @@ By **identifying flaws** in an our real time texting interface, we created low-f
 *** 
 
 
-## [**Koko - Increasing social support and accessibility in mental health**](https://sleepypinks.github.io/koko)
+## [**Scalable Mental Health - Introducing Koko**](https://sleepypinks.github.io/koko)
 ![/peer_support](images//peersupport.jpeg)
 
 We take a step back from designing messages for richer communication. In this project, we iteratively **designed an application** for a mental health startup. Koko is a startup that integrates mental health resources in pre-existing social media platforms to provide younger adults an easier access point to mental health care. They partner with online communities to help find and treat at-risk individuals directly on their platform using online interventions on Koko. [[project]](https://sleepypinks.github.io/koko)
