@@ -1,4 +1,4 @@
-# Koko - an Overview
+# Koko - Project Overview
 
 Koko is a startup that [integrates mental health resources in pre-existing social media platforms to provide younger adults an easier access point to mental health care]().  They partner with online communities to help find and treat at-risk individuals directly on their platform using online interventions on Koko. They use a keyword-trigger design system in which certain negative-thought-keywords will trigger the interface to open up resources for mental health. In this design process, we are creating a plug-in feature linked to a Koko mobile app. 
 
