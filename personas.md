@@ -97,11 +97,11 @@ Please point to any items you would like to change on the screen. | Is there any
 
 ## Persona 1: Waiting Wyona
 
-![/map2.jpg](images//persona2.jpg)
+![/map2.jpg](images//persona2.png)
 
 *Figure 4: Waiting Wyona is a graduate student and is in a long distance relationship. She uses online communication to stay in touch with her partner and her family.*
 
-![/map2.jpg](images//persona2details.jpg)
+![/map2.jpg](images//persona2details.png)
 
 *Figure 5: A persona map to show what Waiting Wyona feels, thinks, says and does.*
 
