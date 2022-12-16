@@ -28,11 +28,11 @@ August 2021: I finished my undergrad in Computer Science.
 
 **Real-time texting - Design Strategies from a Pilot Study:** To better cater to the lack of nonverbal cues, a new chatroom is designed where users can see the message “on the go”. We conducted a pilot study to `brainstorm design strategies` to increase presence in messaging. [[project]](https://sleepypinks.github.io/livetyping)
 
-<img class="profile-picture" src="images/home_confuse.png">
+<img class="profile-picture" src="images/cat_sad_waiting.png">
 
 **Exploring real-time text interface through personas and story-boarding:** By observing and `interviewing real users` interacting with our real time texting website, we created personas based on these users. We then illustrate a storyboard for one of our personas. [[project]](https://sleepypinks.github.io/personas)
 
-<img class="profile-picture" src="images/desktop.jpeg">
+<img class="profile-picture" src="images/bear_message.png.jpeg">
 
 **Redesigning texting interfaces for responsiveness:**] By `identifying flaws` in an our real time texting interface, we created low-fidelity and high-fidelity prototypes for various screen sizes, and build a responsive website based on those prototypes. [[project]](https://sleepypinks.github.io/redesign)
 
