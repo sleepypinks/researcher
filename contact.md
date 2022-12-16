@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [sleepypinks@brown.edu](mailto:sleepypinks@brown.edu)
 
 * Phone: [+91-123123](tel:+91-123123)
 
@@ -11,11 +11,11 @@ is_contact: true
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Brown University
 >
-> London
+> Providence, Rhode Island
 >
-> United Kingdom
+> United States
 
 ---
 
