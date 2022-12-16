@@ -35,7 +35,7 @@ In our next project, we aspire to create the website and run a usability study t
 # Lessons Learned
 
 While we had a hard-coded idea of how to convey non-verbal cues in messaging, our users differed in their responses. The pilot study helped us understand how users view nonverbal cues. The themes that emerged from our sketches included conveying non-verbal cues through various ways: [by creating avatars](), [voice memos](), [real time text]() and [speech bubbles](). While our research focuses on real time text (which is why we decided to go with this theme, future designers must always conduct a pilot study to brainstorm different user needs before they decide to design and ship a product.
-
+ 
 ***
 
 [Navigate your way back to my projects](https://sleepypinks.github.io/) ❤️
