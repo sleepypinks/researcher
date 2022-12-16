@@ -16,12 +16,14 @@ sass:
 
 nav:
  - name: "Home"
-   link: "https://sleepypinks.github.io/"
- - name: "Projects"
-  link: "projects"
+   link: "/"
+ - name: "Research Projects"
+   link: "projects"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+ #- name: "Contact"
+ #  link: "contact"
    
  
