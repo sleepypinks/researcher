@@ -8,7 +8,7 @@ In this study, we step in a user's shoes to observe their interaction with chat 
 
 <!---## Research Question --->
 
-# Live Typing Interface
+## Live Typing Interface
 
 Despite its popularity and convenience, messaging consists of many similar limitations as other computer-mediated communication (CMC) technology. One limitation of messaging is its lack of social cues. Social cues play a significant role in conversations as they influence a user’s perceived social presence, enjoyment, and usage intentions. However, [facial expressions, tone, and emotions are not easily identified in messaging.]() This led us to design a new interface that shows messages in real time as they are being typed 
 
@@ -16,17 +16,17 @@ Despite its popularity and convenience, messaging consists of many similar limit
 
 ***
 
-# Public Observations
+## Public Observations
 
 But does the said design increase the actual co-presence? To observe user's interaction with the system, we interviewed people and ask the following questions: 
 
 
-## Home Screen
+### Home Screen
 ![Drawing-2.sketchpad.jpeg](images/Drawing-2.sketchpad.jpeg)
 
 `Figure 1: Live Typing's homepage. Once the user clicks 'Log In', it takes them to the next screen i.e. the chat room.`
 
-### User Interviews for Home Screen
+#### User Interviews for Home Screen
 
 Warm-up Questions | Questions for 'Home Screen'
 -------|-------
@@ -36,14 +36,14 @@ What do you like about these apps? | What do you think will happen when you pres
 
 ***
 
-## Live Typing Screen 
+### Live Typing Screen 
 
 ![Drawing-1.sketchpad.jpeg](images/Drawing-1.sketchpad.jpeg)
 
 
 `Figure 2: Live Typing's screen sketched out. User can see the other person's response in real time. The interface is trying to increase user's perceived social presence in written communication (messaging here) but displaying what the other person is typing 'on the go'.`
 
-### User Interviews for Live Typing Screen
+#### User Interviews for Live Typing Screen
 
 Questions for 'Live Typing'  | Post-Interaction Questions:
 -------|-------
@@ -53,9 +53,9 @@ Please point to any items you would like to change on the screen. | Is there any
 
 ***
 
-# Interactions: How's it going for people?
+## Interactions: How's it going for people?
 
-## Key Observations
+### Key Observations
 
 • Users were shocked which was recorded through interjections of 'wow', 'oh my', 'geez'.
 
@@ -69,9 +69,9 @@ Please point to any items you would like to change on the screen. | Is there any
 
 ****
 
-### Some of the summarized answers for most important patterns are as follows:
+#### Some of the summarized answers for most important patterns are as follows:
 
-#### 1. [What is your first impression of 'live typing'?]() 
+##### 1. [What is your first impression of 'live typing'?]() 
 
 • Some users felt the interface was **communicative**.
 • While others felt it **hindred their communication**.
@@ -79,23 +79,23 @@ Please point to any items you would like to change on the screen. | Is there any
 
 ****
 
-#### 2. [If you could change one thing about the interface, what would it be?]()
+##### 2. [If you could change one thing about the interface, what would it be?]()
 
 • Most users felt **annoyed** seeing the home screen and so many input parameters.
 • Most users wanted a logging in option with Facebook, Google or any third party apps.
 
 ****
 
-#### 3. [Please point to any items you would like to change on the screen.]()
+##### 3. [Please point to any items you would like to change on the screen.]()
 
 • For the home screen, **users did not feel comfortable** typing this many parameters. On the live typing screen, users were annoyed seeing "You connected" messages and wanted a green icon to see who was present.
 • Some users **disliked the interface** as a chat room, and preffered 1:1 conversations.
 
 ****
 
-# Personas and Empathy Maps
+## Personas and Empathy Maps
 
-## Persona 1: Waiting Wyona
+### Persona 1: Waiting Wyona
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FaOOdjLYArd7Dfti21DC7pB%2FEmpathy-map-(Community)%3Fnode-id%3D502%253A491%26t%3DYyAXsSUkCtHIAYy5-1" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 *****
 
-## Persona 2: Privacy Aware Pamella
+### Persona 2: Privacy Aware Pamella
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FaOOdjLYArd7Dfti21DC7pB%2FEmpathy-map-(Community)%3Fnode-id%3D506%253A146%26t%3DYyAXsSUkCtHIAYy5-1" allowfullscreen></iframe>
 
@@ -111,7 +111,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 *****
 
-# Storyboarding
+## Storyboarding
 
 Let's see the user journey of Waiting Wyona. Remember that **Waiting Wyona is in a long distance relationship** and uses texting and calls to stay in touch with her friends, family and peers. In UX, we understand user journeys through storyboarding. Through this storyboard, we try to understand how
 
@@ -122,7 +122,7 @@ Let's see the user journey of Waiting Wyona. Remember that **Waiting Wyona is in
 
 *****
 
-# Lessons Learned
+## Lessons Learned
 
 Messages can be amazing as they let you type at your convenience and time. However, there are cases for users when messages can feel stressful. Users who have anxiety can have increased anxiety when their friend or partner is typing for too long and they have to see tree dots (...) for several minutes! This is why we created a [new chat room]() where users can see messages as the sender is typing them before they even hit _Send_! We then [conducted interviewes to understand users’ perceptions] of how the interfaces affected their communication and if they would use this chatroom in real lives. While several users were **uncomfortable**, we recorded polar observations where users who had high anxiety would appreciate this interface. Future designers should focus on how to redesign messaging interfaces that would reduce anxiety but would not cause feelings of distress.
 
