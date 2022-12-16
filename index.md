@@ -54,6 +54,7 @@ By **identifying flaws** in an our real time texting interface, we created low-f
 We take a step back from designing messages for richer communication. In this project, we iteratively **designed an application** for a mental health startup.
 
 `Role: Product Lead`
+
 ---
 
 # Publications
