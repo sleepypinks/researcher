@@ -16,16 +16,12 @@ sass:
     sass_dir: _sass
 
 nav:
- #- name: "About"
- #  link: "/researcher/"
- #- name: "Resume"
- #  link: "resume.pdf"
- - name: "Real Time Text"
-   link: "livetyping"
- - name: "Personas"
-   link: "personas"
- - name: "Responsive Redesign"
-   link: "redesign"
- - name: "Koko"
-   link: "koko"
+ - name: "About"
+   link: ""
+ - name: "Projects"
+   link: "https://sleepypinks.github.io/#Projects"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Google Scholar"
+   link: "https://scholar.google.com/citations?user=o8oJ6s4AAAAJ&hl=en"
  
