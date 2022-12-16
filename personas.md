@@ -97,11 +97,7 @@ Please point to any items you would like to change on the screen. | Is there any
 
 ## Persona 1: Waiting Wyona
 
-![/map2.jpg](images//persona2.png)
-
-*Figure 4: Waiting Wyona is a graduate student and is in a long distance relationship. She uses online communication to stay in touch with her partner and her family.*
-
-![/map2.jpg](images//persona2details.png)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FaOOdjLYArd7Dfti21DC7pB%2FEmpathy-map-(Community)%3Fnode-id%3D502%253A491%26t%3DYyAXsSUkCtHIAYy5-1" allowfullscreen></iframe>
 
 *Figure 5: A persona map to show what Waiting Wyona feels, thinks, says and does.*
 
