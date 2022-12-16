@@ -8,9 +8,9 @@ layout: default
 
 👋 Hi, I’m @SleepyPinks. I aspire to **create meaningful impact through design*. I am a grad student in the [Human-Computer Interaction (HCI) Lab](https://hci.brown.edu/) at Brown University. Before joining Brown, I worked on the intersection of design and technology to improve the psychological and educational impact of everyday tech.
 
-> Impact through Design
+> [Creating Meaningful Impact through Design]()
 
-My research focuses on [designing accessible social support healthcare applications]. I use mixed methods research in my work, including interviews, ethnography observations, grounded theory and surveys. Currently, I am researching on ways to convey social and nonverbal cues in messaging application. Before coming to Brown, I designed novel applications to address the needs of Pakistan’s marganalized communities.
+My research focuses on [designing accessible social support healthcare applications]. I use mixed methods research in my work, including interviews, ethnography observations, grounded theory and surveys. Currently, I am **researching on ways to convey social and nonverbal cues in messaging applications**. Before coming to Brown, I designed novel applications to address the needs of Pakistan’s marganalized communities.
 
 ***
 
