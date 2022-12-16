@@ -147,4 +147,12 @@ After our analysis, the team met and brainstormed what are the crucial aspect in
 
 Stay tuned for an updated version of Koko! ❤️
 
+***
+
+# Lessons Learned
+This project focused on a previous narrative of engaging with users before designing a project. First, each of our team member had a [different ideation for scalable mental health applications](). This implies that each user values different skillset for improving their mental health. While some users valued color therapy, others disliked it and wanted to engage with a peer supporter and talk their feelings out. Future designers must create personalised mental health applications for scalability and accessibility.
+
+***
+
+
 [Navigate your way back to my projects](https://sleepypinks.github.io/) ❤️
