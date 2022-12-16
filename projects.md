@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Research Projects
+👋 Here you can find a list of my research projects. Since I am a researcher, each of my project is provided with a **context**, **research question**, **process method to explore those questions**, and **lessons learned**. Happy navigating! :)
 
 ## [**Real-time texting - Design Strategies from a Pilot Study**]()[website](https://sleepypinks.github.io/livetyping)
 
@@ -42,3 +43,5 @@ By **identifying flaws** in an our real time texting interface, we created low-f
 We take a step back from designing messages for richer communication. In this project, we iteratively **designed an application** for a mental health startup.
 
 `Role: Product Lead`
+
+***
