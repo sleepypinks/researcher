@@ -30,4 +30,12 @@ We [did not tell users about real time texting design](). We wanted to see if th
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FELovpx1WJWJEHecHB5MH6R%2FUntitled%3Fnode-id%3D0%253A1%26t%3Dn0pdUB4YthX9qx1S-1" allowfullscreen></iframe>
 
+In our next project, we aspire to create the website and run a usability study to test for user experiences. Find the next project [here](https://sleepypinks.github.io/personas).
+
+# Lessons Learned
+
+While we had a hard-coded idea of how to convey non-verbal cues in messaging, our users differed in their responses. The pilot study helped us understand how users view nonverbal cues. The themes that emerged from our sketches included conveying non-verbal cues through various ways: [by creating avatars](), [voice memos](), [real time text]() and [speech bubbles](). While our research focuses on real time text (which is why we decided to go with this theme, future designers must always conduct a pilot study to brainstorm different user needs before they decide to design and ship a product.
+
+***
+
 [Navigate your way back to my projects](https://sleepypinks.github.io/) ❤️
