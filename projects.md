@@ -36,7 +36,7 @@ By **identifying flaws** in an our real time texting interface, we created low-f
 *** 
 
 
-## [**Koko - Increasing social support and accessibility in mental health**]() [[website]](https://sleepypinks.github.io/koko)
+## [**Koko - Increasing social support and accessibility in mental health**]() [[project]](https://sleepypinks.github.io/koko)
 
 ![/peer_support](images//peersupport.jpeg)
 
