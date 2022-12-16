@@ -1,4 +1,4 @@
-# Real Time Texting (Live Typing) - an Overview
+# Conveying Nonverbal Cues in Messaging - Findings from a Pilot Study
 
 Despite its popularity and convenience, **messaging consists of many similar limitations** as other computer-mediated communication (CMC) technology. One limitation of messaging is its [lack of social cues](). Social cues play a significant role in conversations as they influence a user’s perceived social presence, enjoyment, and usage intentions.
 
