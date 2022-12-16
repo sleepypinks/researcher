@@ -8,7 +8,7 @@ To enhance users’ perceived social presence, [is-typing indicator]() was intro
 
 In this research project, we design a new interface that displays message as the user is writing it. That is, all messages would be shown [in real time]!! Real-time text (RTT) is [text transmitted instantly as it is typed or created](). **Recipients can immediately read the message while it is being written, without waiting.** RTT, or real-time text, sends text messages immediately as you type them, without requiring users to hit send.
 
-![/rtt](images//rtt.webp)
+![/rtt](images//rtt.jpeg)
 
 `Figure 1: With real time text (or as we call it **Live Typing**, messages appear on the screen as you type them.`
 
